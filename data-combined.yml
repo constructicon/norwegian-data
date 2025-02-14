@@ -1,0 +1,6751 @@
+---
+1:
+  name: 'X og X (fru Blom)'
+  UD_name: ''
+  illustration: 'billig og billig, fru Blom'
+  cefr_level: A2
+  definitions:
+    - norwegian: |
+         Konstruksjon brukes for å markere at taleren er uenig med eller skeptisk til samtalepartnerens bruk av X, der X kan være et hvilket som helst ord.
+    - english: |
+         The construction is used to signal that the speaker disagrees with the interlocutor's use of X, where X can be any word.
+  examples:
+    - |
+         Helene: Gi meg noen piller De, så skal jeg nok ta dem. Holm (drar på skuldrene): Piller og piller, fru Blom! Vi har vokst fra pillene nå. (Karusellen, Alex Brinchmann, 1940)
+    - |
+         Puben er irsk...skjønt "er" og "er", fru Blom. (NoWaC)
+    - |
+         Vi holder på med å pusse opp. Vi og vi. Det er mannen min som holder på med det. (NoWaC)
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+2:
+  name: 'gå på X'
+  UD_name: ''
+  illustration: 'Jeg går på fotball.'
+  cefr_level: A1
+  definitions:
+    - norwegian: |
+         Konstruksjonen betegner at en person er aktivt engasjert i en regelmessig aktivitet og besøker et bestemt sted med utdanningsformål: gå på skole, gå på norskkurs, gå på fotball.
+  examples:
+    - |
+         Alle elevene gikk på studieretning for almenne og økonomiske og administrative fag. (NoWaC)
+    - |
+         Jeg har gått på fotball siden jeg var 6 år.
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+3:
+  name: 'X er på fornavn med Y'
+  UD_name: ''
+  illustration: 'Hun er på fornavn med USAs utenriksminister.'
+  cefr_level: B1
+  definitions:
+    - norwegian: |
+         Konstruksjonen "å være på fornavn med noen" betyr at man har et uformelt og nært forhold til en annen person. Det antyder at man er komfortabel med å bruke fornavnet deres i stedet for mer formelle titler eller etternavn, noe som ofte indikerer en viss grad av vennskap eller fortrolighet.
+  examples:
+    - |
+         Han er på fornavn med Norges ledende krefteksperter.
+    - |
+         De er på fornavn med alle næringslivstoppene og lunsjer jevnlig med dem.
+    - |
+         Åge Aleksandersen er på fornavn med hele Norge.
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+4:
+  name: 'legge X på is'
+  UD_name: ''
+  illustration: 'På grunn av budsjettkutt måtte vi legge prosjektet på is inntil videre.'
+  cefr_level: B1
+  definitions:
+    - norwegian: |
+         Konstruksjonen "å legge noe på is" betyr å utsette eller midlertidig stoppe noe, ofte en plan eller et prosjekt. Det innebærer at man ikke går videre med det for øyeblikket, men kanskje vil ta det opp igjen senere. Det kan gjelde f. eks. prosjektarbeid, personlige planer eller forretningsbeslutninger.
+  examples:
+    - |
+         Vi har bestemt oss for å legge bryllupsplanene på is til neste år på grunn av pandemien.
+    - |
+         Se.lskapet har valgt å legge ekspansjonsplanene på is til markedet stabiliserer seg
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+5:
+  name: 'X er enig/uenig med Y om Y/ at / i at Cl'
+  UD_name: ''
+  illustration: 'Studentene er enige med læreren sin i at eksamen er viktig.'
+  cefr_level: A2
+  definitions:
+    - norwegian: |
+         Konstruksjonen å være enig med" betyr at man deler samme oppfatning, synspunkt eller holdning som en annen person. Når du er enig med noen, støtter du deres mening eller konklusjon. Konstruksjonen "å være uenig med" betyr at man har en annen oppfatning eller synspunkt enn en annen person. Når du er uenig med noen, betyr det at du ikke støtter deres mening eller konklusjon.
+  examples:
+    - |
+         Jeg er enig med deg i at vi bør starte prosjektet neste uke.
+    - |
+         Hun var enig med kollegaene sine om strategien.
+    - |
+         Jeg er uenig med ham i hvordan problemet bør løses.
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+6:
+  name: 'V med tanke på X'
+  UD_name: ''
+  illustration: 'Jeg sparer penger med tanke på fremtidige reiser.'
+  cefr_level: B1
+  definitions:
+    - norwegian: |
+         Konstruksjonen "å gjøre noe med tanke på X" betyr å utføre en handling eller ta en beslutning med hensyn til eller med hensikt å oppnå noe relatert til X. Det innebærer at X er en faktor eller et mål som påvirker hvordan eller hvorfor noe blir gjort. Konstruksjonen er en måte å uttrykke at X er en viktig vurdering eller motivasjon for handlingen.
+  examples:
+    - |
+         De planla arrangementet med tanke på gjestenes komfort.
+    - |
+         Vi kjøpte en større bil med tanke på familiens behov.
+    - |
+         Vi har valgt denne løsningen med tanke på miljøet.
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+7:
+  name: 'når det gjelder X, ...'
+  UD_name: ''
+  illustration: 'Når det gjelder ferieplanene, har vi ikke bestemt oss ennå.'
+  cefr_level: B1
+  definitions:
+    - norwegian: |
+         Konstruksjonen "når det gjelder X" brukes for å introdusere et tema eller en spesifikk sak som man ønsker å diskutere eller gi informasjon om. Det betyr omtrent det samme som "angående" eller "med hensyn til". Legg merke til ordstillingen etter innledningen.
+  examples:
+    - |
+         Når det gjelder kundeservice, har vi fått mange positive tilbakemeldinger.
+    - |
+         Når det gjelder prosjektet, er fristen satt til neste måned.
+    - |
+         Når det gjelder økonomi, må vi være mer sparsomme fremover.
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+8:
+  name: 'legge merke til X / til at Cl'
+  UD_name: ''
+  illustration: 'Jeg legger merke til at uttaler forandrer seg. Jeg legger merke til det gode fellesskapet her.'
+  cefr_level: A2
+  definitions:
+    - norwegian: |
+         Konstruksjonen betyr å bli oppmerksom på eller observere noe. Det innebærer at man ser, hører eller på annen måte registrerer noe som kanskje ikke var åpenbart ved første øyekast. "Å legge merke til" noe betyr altså å bli bevisst på noe (X), ofte fordi det skiller seg ut eller er av spesiell interesse.
+  examples:
+    - |
+         Vi la merke til at været begynte å bli kaldere.
+    - |
+         Jeg legger merke til at flere nevner viktigheten av språket.
+    - |
+         Jeg legger merke til ALT, til og med ting som er ingenting.
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+9:
+  name: 'X etter X'
+  UD_name: ''
+  illustration: 'Han jobbet hardt dag etter dag for å fullføre prosjektet i tide.'
+  cefr_level: B1
+  definitions:
+    - norwegian: |
+         Konstruksjonen brukes for å beskrive noe som skjer kontinuerlig eller gjentatte ganger over en bestemt tidsperiode. Den gir en følelse av vedvarende eller uavbrutt handling eller tilstand og brukes for å beskrive en rutine eller noe som skjer regelmessig over en periode.
+  examples:
+    - |
+         Hun gikk tur med hunden sin dag etter dag, uansett vær.
+    - |
+         Familien feirer jul på hytta år etter år.
+    - |
+         Én etter én
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+10:
+  name: 'for det første, ... for det andre, ...'
+  UD_name: ''
+  illustration: 'For det første, har vi et sterkt team. For det andre, har vi en klar strategi.'
+  cefr_level: A2
+  definitions:
+    - norwegian: |
+         Konstruksjonen brukes for å strukturere og presentere flere poeng eller argumenter i en samtale eller tekst. Det hjelper med å tydeliggjøre rekkefølgen og viktigheten av de ulike punktene som blir presentert. Ordstillingen etter de ordene "for det første": verb, subjekt, osv.
+  examples:
+    - |
+         For det første, er været perfekt for en tur. For det andre, har vi fri hele dagen.
+    - |
+         For det første, er boken lett å lese. For det andre, er historien veldig engasjerende.
+    - |
+         For det første, er boken lett å lese. For det andre, er historien veldig engasjerende.
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+11:
+  name: 'på den ene side ... men på den andre side ...'
+  UD_name: ''
+  illustration: 'På den ene siden ønsker jeg å spare penger, men på den andre siden har jeg lyst til å dra på ferie.'
+  cefr_level: A2
+  definitions:
+    - norwegian: |
+         Konstruksjonen brukes for å presentere to kontrasterende synspunkter, argumenter eller aspekter av en sak. Ved å bruke denne konstruksjonen veier man ulike sider av en situasjon mot hverandre.
+  examples:
+    - |
+         På den ene siden er jobben veldig krevende, men på den andre siden gir den meg mye erfaring.
+    - |
+         På den ene siden liker jeg å bo i byen på grunn av alle fasilitetene, men på den andre siden savner jeg roen på landet.
+    - |
+         På den ene siden er det viktig å være forsiktig med utgifter, men på den andre siden må vi investere i kvalitet.
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+12:
+  name: 'med hensyn til ..., ...'
+  UD_name: ''
+  illustration: 'Med hensyn til sikkerhet, bør alle ansatte bruke verneutstyr.'
+  cefr_level: B2
+  definitions:
+    - norwegian: |
+         Konstruksjonen brukes for å referere til eller fokusere på et spesifikt tema eller aspekt av en sak. Det tilsvarer uttrykk som "angående" eller "når det gjelder." Konstruksjonen er ofte forkortet som mht.
+  examples:
+    - |
+         Praktiske tips med hensyn til de tekniske løsninger.
+    - |
+         Med hensyn til prosjektet, må vi holde oss innenfor budsjettet.
+    - |
+         Det nye dyrehelseregelverket krever at Mattilsynet skal risikoklassifisere alle akvakulturanlegg med hensyn til fiskehelse.
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+13:
+  name: 'det V en N prep. STED'
+  UD_name: ''
+  illustration: 'Det sitter noen studenter i kantina'
+  cefr_level: B1
+  definitions:
+    - norwegian: |
+         Konstruksjonen brukes for å presentere en ny referent (uttrykt av et ubestemt substantiv), hvor denne befinner seg (uttrykt av en preposisjonsfrase). Verbet kan være et kroppspositurverb (sitte, ligge, stå), men også verbet være.
+  examples:
+    - |
+         Det ligger et hus i veien i Belgia
+    - |
+         Det står noen bøker på hylla
+    - |
+         Det sitter en grevling på trappa
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+14:
+  name: 'X kommer til å V'
+  UD_name: ''
+  illustration: 'Kjære kunder! Vi kommer til å pusse opp butikken i uke 48 og da er vi dessverre nødt til å holde stengt i noen dager.'
+  cefr_level: A2
+  definitions:
+    - norwegian: |
+         Konstruksjonen uttrykker at situasjonen uttrykt av V har framtidsreferanse. Situasjonen kan være en intendert (planlagt) handing eller (oftest) en ukontrollerbar situasjon som taleren anser som sannsynlig.
+  examples:
+    - |
+         Jeg kommer til å savne deg.
+    - |
+         Vi kommer til å lansere det nye produktet snart.
+    - |
+         Jeg er kvalm, jeg tror jeg kommer til å bli syk.
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      "Det er kanskje mer komplisert her. Det er kanskje viktig om man har en intensjon eller plan eller en handlig er ikke planlagt. Kan brukes om begge, men særlig ikke-planlagte situasjoner som uttrykkes med stor grad av sikkerhet. Konstruksjonen kan også (dog sjeldent) brukes om ukontrollerbare spontane handlinger, særlig når V står i preteritum: jeg kom til å tenke på den gangen vi var telttur og det regnet hele tiden."
+15:
+  name: 'gå lei av å V'
+  UD_name: ''
+  illustration: 'Jeg har gått lei av pizza etter å ha spist det hver helg i flere måneder.'
+  cefr_level: A2
+  definitions:
+    - norwegian: |
+         Konstruksjonen betyr å bli trøtt eller miste interessen for noe. Konstruksjonen beskriver en følelse av kjedsomhet eller frustrasjon som oppstår når man har hatt for mye av noe, eller når noe ikke lenger er spennende eller interessant.
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+16:
+  name: 'X har godt av å V'
+  UD_name: ''
+  illustration: 'Hans har godt av å trene regelmessig for å holde seg i form.'
+  cefr_level: C1
+  definitions:
+    - norwegian: |
+         Konstruksjonen betyr at noe er fordelaktig eller nyttig for en person. Det antyder at en bestemt handling, aktivitet eller situasjon vil ha en positiv effekt på en persons velvære, helse eller utvikling.
+  examples:
+    - |
+         Du kunne ha godt av å prate med noen.
+    - |
+         Etter en lang uke på jobb, har hun godt av å ta en fridag for å slappe av.
+    - |
+         Derfor mente treneren laget hadde godt av å tape.
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+17:
+  name: 'X er for deg/dem som V'
+  UD_name: ''
+  illustration: 'Norskprøven er for deg som er på norskkurs og andre som vil vise hvor godt de kan norsk.'
+  cefr_level: B2
+  definitions:
+    - norwegian: |
+         Konstruksjonen brukes for å beskrive at noe (X) er spesielt egnet eller relevant for personer som har en bestemt interesse, behov eller egenskap (V). Det er en måte å målrette eller anbefale noe til en spesifikk gruppe mennesker. Her er "X" det som tilbys, og "V" beskriver målgruppen eller de spesifikke interessene eller behovene som gjør at det er relevant for dem.
+  examples:
+    - |
+         Dette treningsprogrammet er for deg som ønsker å gå ned i vekt.
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+18:
+  name: '... med mindre ...'
+  UD_name: ''
+  illustration: 'Vi drar på stranden i morgen, med mindre det regner.'
+  cefr_level: B2
+  definitions:
+    - norwegian: |
+         Konstruksjonen introduserer en betingelse som unntar noe fra en generell regel eller situasjon. Det tilsvarer det engelske "unless" og brukes for å si at noe vil skje, bortsett fra hvis en spesifikk betingelse er oppfylt. De ordene "med mindre" setter en betingelse som må oppfylles for at hovedutsagnet ikke skal gjelde.
+  examples:
+    - |
+         Jeg kommer på festen, med mindre noe viktig dukker opp.
+    - |
+         Du vil ikke bestå eksamen, med mindre du studerer hardt.
+    - |
+         Helsehjelp kan bare gis med pasientens samtykke, med mindre det foreligger lovhjemmel eller annet gyldig rettsgrunnlag for å gi helsehjelp uten samtykke.
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+19:
+  name: '(alle X) botsett fra Y'
+  UD_name: ''
+  illustration: 'Alle i familien liker pizza, bortsett fra Lars.'
+  cefr_level: B1
+  definitions:
+    - norwegian: |
+         Konstruksjonen betyr at noe gjelder for alle elementer i en gruppe (X), med unntak av ett spesifikt element (Y). Det betyr at Y er unntaket fra regelen eller beskrivelsen som gjelder for resten av gruppen.
+  examples:
+    - |
+         Alle dyrene i parken er fredelige, bortsett fra den ene aggressive apen.
+    - |
+         Alle må levere oppgaven innen fredag, bortsett fra de som har fått utsettelse.
+    - |
+         Alle barna tittet inn i mikrobølgeovnen, unntatt Knut, han tittet ut
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+20:
+  name: 'jo ...  jo ...'
+  UD_name: ''
+  illustration: 'Jo mer du jobber, jo mer tjener du.'
+  cefr_level: A2
+  definitions:
+    - norwegian: |
+         Konstruksjonen brukes for å beskrive en sammenheng eller et forhold mellom to ting, hvor en endring i den ene fører til en endring i den andre. Det tilsvarer det engelske "the more ... the more ..." eller "the more ... the less ...".
+  examples:
+    - |
+         Jo tidligere man får hjelp, jo mindre kan man trenge av behandling.
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+21:
+  name: 'X kroppspositurverb og V'
+  UD_name: ''
+  illustration: 'Jeg sitter og jobber'
+  cefr_level: A1
+  definitions:
+    - norwegian: |
+         Konstruksjonen brukes for å uttrykke at handlingen er pågående samtidig som kroppspositurverbet indikerer subjektets posisjon. Elementet "og" er her en pseudokoordinasjon.
+    - english: |
+         The construction expresses that the action expressed by V is ongoing, similar to the present progressive in English. The use of a posture verb indicating whether the subject is sitting, standing or lying down
+  examples:
+    - |
+         De står og ser på menyen
+    - |
+         Nå sitter Julia og svarer på e-posten fra Randi
+    - |
+         Nå sitter de rundt bordet og spiser og koser seg
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+22:
+  name: 'det kroppspositurverb S PP og V'
+  UD_name: ''
+  illustration: 'Det sitter en statsråd i Oslo og overkjører lokaldemokratiet'
+  cefr_level: B1
+  definitions:
+    - norwegian: |
+         Konstruksjonen er en kombinasjon av "det V en N prep. STED" og "V og V"
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+23:
+  name: 'u-X'
+  UD_name: ''
+  illustration: 'ufin, umenneske'
+  cefr_level: A1
+  definitions:
+    - norwegian: |
+         Konstruksjonen uttrykker det motsatte av X
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+24:
+  name: 'X-aktig'
+  UD_name: ''
+  illustration: 'fordelaktig, snøaktig, kakaoaktig'
+  cefr_level: B1
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+25:
+  name: 'X-messig'
+  UD_name: ''
+  illustration: 'kjempemessig, treningsmessig, feriemessig'
+  cefr_level: B1
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+26:
+  name: 'X tror (at) Cl'
+  UD_name: ''
+  illustration: ''
+  cefr_level: A2
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+27:
+  name: 'X synes (at) Cl'
+  UD_name: ''
+  illustration: ''
+  cefr_level: A2
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+28:
+  name: 'X mener (at) Cl'
+  UD_name: ''
+  illustration: ''
+  cefr_level: A2
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+29:
+  name: 'X tenker (at) Cl'
+  UD_name: ''
+  illustration: ''
+  cefr_level: A2
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+30:
+  name: 'X høres/kjennes/føles/ser ADJ ut'
+  UD_name: ''
+  illustration: 'Hunden så veldig sulten ut.'
+  cefr_level: A2
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+31:
+  name: 'Det høres/kjennes/føles/ser ut som at'
+  UD_name: ''
+  illustration: ''
+  cefr_level: B1
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+32:
+  name: 'X dreier seg om Y'
+  UD_name: ''
+  illustration: 'Det dreier seg om mye penger'
+  cefr_level: B1
+  definitions:
+    - norwegian: |
+         Konstruksjonen betyr at X handler om eller fokuserer på Y. Det brukes for å beskrive hva som er hovedtemaet eller hovedfokuset i en diskusjon, en tekst, en situasjon, eller lignende.
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+33:
+  name: 'V på X (non-habitual)'
+  UD_name: ''
+  illustration: 'Jeg skal på kino'
+  cefr_level: A1
+  definitions:
+  examples:
+    - |
+         Jeg skal på en konferanse
+    - |
+         Jeg må på biblioteket
+    - |
+         Jeg går på butikken
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+34:
+  name: 'V STED og V'
+  UD_name: ''
+  illustration: 'Jeg drar hjem og legger meg'
+  cefr_level: A1
+  definitions:
+  examples:
+    - |
+         Alle skal på do og tisse
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+35:
+  name: 'NUM (X) til'
+  UD_name: ''
+  illustration: 'Kan jeg få én pose til?'
+  cefr_level: A1
+  definitions:
+  examples:
+    - |
+         Gi meg to til, så bytter vi
+    - |
+         Du får én til når du er ferdig med den første
+    - |
+         Kan du si det én gang til?
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+36:
+  name: 'NUM ganger i TID-bestemt'
+  UD_name: ''
+  illustration: 'To ganger i uka'
+  cefr_level: A1
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+37:
+  name: 'for en time siden'
+  UD_name: ''
+  illustration: 'For to dager siden'
+  cefr_level: A1
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+38:
+  name: 'SUBJEKT ha NP.ubestemt'
+  UD_name: ''
+  illustration: 'Han har barn'
+  cefr_level: A1
+  definitions:
+  examples:
+    - |
+         Hun har jobb
+    - |
+         De har bil
+    - |
+         Har han kjæreste?
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+39:
+  name: 'SUBJEKT være NP.ubestemt'
+  UD_name: ''
+  illustration: 'Hun er snekker'
+  cefr_level: A1
+  definitions:
+  examples:
+    - |
+         Jeg er enke
+    - |
+         Jeg er pensjonist
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+40:
+  name: 'for å V'
+  UD_name: ''
+  illustration: 'Jeg går på kurs for å lære norsk'
+  cefr_level: A1
+  definitions:
+  examples:
+    - |
+         Hun går på badet for å pynte seg litt
+    - |
+         Du må ha sykemelding for å kunne levere etter tidsfristen
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+41:
+  name: 'X LIGGE i nærheten av STED'
+  UD_name: ''
+  illustration: 'Kiosken ligger i nærheten av biblioteket'
+  cefr_level: A2
+  definitions:
+  examples:
+    - |
+         Den ligger i nærheten av bussholdeplassen
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+42:
+  name: 'V inn/bortom'
+  UD_name: ''
+  illustration: 'Jeg stikker innom etter jobb'
+  cefr_level: 
+  definitions:
+  examples:
+    - |
+         Bare å komme innom når det passer
+    - |
+         Vi må komme bortom og hilse på
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+43:
+  name: 'X er som Y'
+  UD_name: ''
+  illustration: 'Nordmenn er som en termos. Kalde utenpå, men varme inni.'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+44:
+  name: 'V seg STED'
+  UD_name: ''
+  illustration: 'Jeg drømmer meg bort'
+  cefr_level: 
+  definitions:
+  examples:
+    - |
+         Klikk deg inn her
+    - |
+         Stjernene beveger seg bort fra Melkeveien
+    - |
+         Hva ønsker man å regulere seg vekk fra?
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+45:
+  name: 'ikke bare bare (å V)'
+  UD_name: ''
+  illustration: 'Det er ikke bare bare å lære norsk'
+  cefr_level: 
+  definitions:
+  examples:
+    - |
+         Skal anlegge hage, og det er ikke bare bare.
+    - |
+         Ikke bare bare å få baby i så ung alder
+    - |
+         Det er ikke bare bare å få skrevet i bloggen når man har en liten jente som vil ha oppmerksomhet
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+46:
+  name: 'det skal s-verb (plan)'
+  UD_name: ''
+  illustration: 'Nå skal det feires'
+  cefr_level: 
+  definitions:
+    - norwegian: |
+         Konstruksjonen uttrykker at noen (som regel et underforstått jeg eller vi) skal utføre den handlingen som utfyller skal. Den skiller seg fra andre uttrykk med skal V ved at subjektet som skal utføre handlingen ikke uttrykkes syntaktisk.
+  examples:
+    - |
+         I dag skal det ryddes og handles
+    - |
+         Når sola kommer skal det grilles
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+47:
+  name: 'det skal s-verb at Cl (concessive)'
+  UD_name: ''
+  illustration: 'Det skal sies at det ikke bare er kvinner som har problemer med å vokse opp i en æreskultur'
+  cefr_level: 
+  definitions:
+  examples:
+    - |
+         Det skal innrømmes at Galilei selv slett ikke var uten skyld
+    - |
+         Det skal dog nevnes at filmoversettere har det med å bruke dette ordet
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+48:
+  name: 's-verb ved å V / at Cl'
+  UD_name: ''
+  illustration: 'Dette gjøres ved å klikke deg inn her / ved at du klikker deg inn her'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+49:
+  name: 'PRON, da?'
+  UD_name: ''
+  illustration: 'Du, da?'
+  cefr_level: 
+  definitions:
+    - norwegian: |
+         Konstruksjonen setter fokus på referenten uttrykt av pronomenet (Hvordan går det med deg? Bra. Du, da?) (Her har dere en kaffe! Meg, da?) (Er du ferdig? Ja. Han, da?)
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+50:
+  name: 'takk for X'
+  UD_name: ''
+  illustration: 'Takk for sist'
+  cefr_level: 
+  definitions:
+  examples:
+    - |
+         Takk for idag
+    - |
+         Takk for maten
+    - |
+         Takk for meg
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+51:
+  name: 'få nesten V'
+  UD_name: ''
+  illustration: 'Jeg får nesten dra, det er sent'
+  cefr_level: 
+  definitions:
+  examples:
+    - |
+         Du får nesten sende en mail til dem hvis du lar deg provosere slik
+    - |
+         Dere får nesten bedømme selv
+    - |
+         Vi får nesten se hva som skjer
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+52:
+  name: 'redupliseringskonstruksjon'
+  UD_name: ''
+  illustration: 'Du er rar, du!'
+  cefr_level: 
+  definitions:
+    - norwegian: |
+         Denne konstruksjonen fungerer ved at subjektet i setningen gjentas som et pronomen. Den ser ut til å forsterke utsagnet, legge vekt på at utsagnet er talerens personlige mening (når subjekt er jeg) eller (sammen med imperativ) understreke tillatelse eller oppfordring.
+  examples:
+    - |
+         Åpningsakten var flott, den
+    - |
+         Ta deg litt mer kaffe, du
+    - |
+         Jeg synes FHK gjør det bra jeg
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+53:
+  name: 'X for X'
+  UD_name: ''
+  illustration: 'Skritt for skritt'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+54:
+  name: 'V som bare det'
+  UD_name: ''
+  illustration: 'Det snør som bare det'
+  cefr_level: 
+  definitions:
+    - norwegian: |
+         Forsterker
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+55:
+  name: 'for S'
+  UD_name: ''
+  illustration: 'For en idiot!'
+  cefr_level: 
+  definitions:
+    - norwegian: |
+         Forsterker (Konstruksjonen brukes ofte for å understreke at noe har gjort et sterkt inntrykk. Konstruksjonen kan uttrykke overraskelse, beundring eller en sterk reaksjon på noe som har skjedd.)
+  examples:
+    - |
+         For et vær!
+    - |
+         For en historie!
+    - |
+         For en fest!
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+56:
+  name: '(det er) bare å V'
+  UD_name: ''
+  illustration: 'Bare å komme'
+  cefr_level: 
+  definitions:
+    - norwegian: |
+         Høflighet
+  examples:
+    - |
+         Ønsker du å få sko i gave, kan du bare legge inn kommentar her
+    - |
+         Det er bare å spørre betjeningen hvis du lurer på noe
+    - |
+         Bare gi meg melding når du har tid
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+57:
+  name: 'ha PARTISIPP i/siden TID'
+  UD_name: ''
+  illustration: 'Jeg har bodd i Norge i to år / siden 2023'
+  cefr_level: 
+  definitions:
+    - norwegian: |
+         Konstruksjonen uttrykker at en situasjon har pågått i en viss varighet og fortsatt pågår.
+  examples:
+    - |
+         SV, AP og SP har samarbeidet i fire år allerede
+    - |
+         Det har snødd i to døgn
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+58:
+  name: 'S er S'
+  UD_name: ''
+  illustration: 'Studenter er studenter.'
+  cefr_level: B2
+  definitions:
+    - norwegian: |
+         Konstruksjonen brukes ofte for å understreke at en person eller en gruppe har visse egenskaper eller oppfyller en rolle som er typisk for dem.
+  examples:
+    - |
+         Studenter er studenter alle steder, også på Mars.
+    - |
+         Norge er Norge. Et land med en egen kultur, en egen historie og sine egne problemer. Likevel har vi noe å lære av andre.
+    - |
+         Det er en grunn til at artister er artister og politikere er politikere, sier FpU-formann Atle Simonsen til Dagbladet.
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+59:
+  name: 'si seg X'
+  UD_name: ''
+  illustration: 'Jeg må si meg enig'
+  cefr_level: 
+  definitions:
+  examples:
+    - |
+         Hun sa seg villig til å ta på seg jobben
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+60:
+  name: 'være som V'
+  UD_name: ''
+  illustration: 'Det er som å drukne'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+61:
+  name: 'være (STED) og V-presens'
+  UD_name: ''
+  illustration: 'Han er og handler'
+  cefr_level: 
+  definitions:
+  examples:
+    - |
+         Hun er ute og rir på hesten sin
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+62:
+  name: 'det er så X at Y'
+  UD_name: ''
+  illustration: 'Det er så kaldt at mange rør har frosset'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+63:
+  name: 'det s-verb'
+  UD_name: ''
+  illustration: 'Det festes og drikker over en lav sko i løpet av de to fadderukene'
+  cefr_level: 
+  definitions:
+  examples:
+    - |
+         Nå vapes det som aldri før
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+64:
+  name: 'det være X som Y'
+  UD_name: ''
+  illustration: 'Det er Norge som er bra, det er Norge som er best'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+65:
+  name: 'possessiv (ADJ) N'
+  UD_name: ''
+  illustration: 'Din (forbanna) idiot!'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+66:
+  name: 'V av N'
+  UD_name: ''
+  illustration: 'Skiutstyr består av kondomdress og rumpetaske'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+67:
+  name: 'holde på å V'
+  UD_name: ''
+  illustration: 'Jeg holdt på å dø av skam'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+68:
+  name: 'N-ubestemt på NUM'
+  UD_name: ''
+  illustration: 'En leilighet på 70 m2'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+69:
+  name: 'få N PARTISIPP'
+  UD_name: ''
+  illustration: 'Mange vil få husleien økt'
+  cefr_level: 
+  definitions:
+  examples:
+    - |
+         Unge kvinner fikk innsatt spiral
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+70:
+  name: 'V og V'
+  UD_name: ''
+  illustration: 'Jeg har prøvd og prøvd, men jeg fordrar ikke dataspill'
+  cefr_level: 
+  definitions:
+    - norwegian: |
+         Konstruksjonen uttrykker at handlingen som uttrykkes av V foregår over lengre tid eller ved gjentatte anledninger
+  examples:
+    - |
+         Hva er det som går og går og aldri kommer til døra?
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+71:
+  name: 'og X bare'
+  UD_name: ''
+  illustration: 'og hun bare: "det er ditt problem"'
+  cefr_level: 
+  definitions:
+    - norwegian: |
+         Konstruksjonen har en sitatfunksjon og erstatter kolon og sitattegn i muntlig språk. Typisk for uformelt og ungdommelig språk?
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+72:
+  name: 'PLEIE å V'
+  UD_name: ''
+  illustration: 'Jeg har to venner som jeg pleier å være med'
+  cefr_level: 
+  definitions:
+    - norwegian: |
+         Konstruksjonen uttrykker at handlingen som uttrykkes av V er vanlig
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+73:
+  name: 'hele TID lang'
+  UD_name: ''
+  illustration: 'Jeg har jobbet hele dagen lang'
+  cefr_level: 
+  definitions:
+  examples:
+    - |
+         Vi ber om en mann som kan danse hele natta lang
+    - |
+         Basketcamper hele sommeren lang!
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+74:
+  name: 'på NUM TID'
+  UD_name: ''
+  illustration: 'Det hele var over på fem minutter'
+  cefr_level: 
+  definitions:
+  examples:
+    - |
+         Få julevasken unnagjort på 1-2-3
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+75:
+  name: 'litt av N-ubestemt'
+  UD_name: ''
+  illustration: 'John Lennon var litt av en rebell'
+  cefr_level: 
+  definitions:
+    - norwegian: |
+         Konstruksjonen fremhever ofte at personen eller situasjonen skiller seg ut fra det vanlige. Konstruksjonen beskriver noen eller noe som er bemerkelsesverdig eller spesielt på en eller annen måte. Det kan ha både positive og negative konnotasjoner, avhengig av sammenhengen.
+  examples:
+    - |
+         Det er litt av en plan!
+    - |
+         NRK: Fikk bil inn i stua: – Det var litt av en opplevelse. Men heldigvis er vi et rolig folkeslag, og har tatt det her veldig greit.
+    - |
+         Han er litt av en fyr!
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+76:
+  name: 'V seg X'
+  UD_name: ''
+  illustration: 'Le seg fillete'
+  cefr_level: 
+  definitions:
+  examples:
+    - |
+         Spise seg stor
+    - |
+         Drikke seg full
+    - |
+         Føle seg verdsatt
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+77:
+  name: 'LA seg V'
+  UD_name: ''
+  illustration: 'Ikke la deg friste'
+  cefr_level: 
+  definitions:
+  examples:
+    - |
+         Han lot seg overbevise
+    - |
+         De lar seg inspirere av barna
+    - |
+         Det skal la seg gjøre
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+78:
+  name: 'på tide å V'
+  UD_name: ''
+  illustration: 'Det er på tide å tenke nytt'
+  cefr_level: 
+  definitions:
+    - norwegian: |
+         Konstruksjonen uttrykker en oppfordring rettet mot seg selv eller andre til å gjøre forandringer
+  examples:
+    - |
+         På tide å bytte ut bakgrunnen på skrivebordet?
+    - |
+         På tide å komme opp med en morsom overskrift
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+79:
+  name: 'komme opp med S'
+  UD_name: ''
+  illustration: 'Dere kan komme opp med forslag til nye konstruksjoner'
+  cefr_level: 
+  definitions:
+  examples:
+    - |
+         De slipper å komme opp med svar
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+80:
+  name: 'få X til å Y'
+  UD_name: ''
+  illustration: 'Trump fikk våre naboer til å bråvåkne'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+81:
+  name: 'V PARTISIPP (STED)'
+  UD_name: ''
+  illustration: 'Hun kom løpende (ned trappa)'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+82:
+  name: 'å være lei seg over at ...'
+  UD_name: ''
+  illustration: 'Jeg er lei meg over at jeg uttalte meg utydelig.'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+83:
+  name: 'gå fra X til å V'
+  UD_name: ''
+  illustration: 'Grønland har gått fra bortgjemt avkrok til å være på alles lepper'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+84:
+  name: 'V i tide'
+  UD_name: ''
+  illustration: 'Oppgaven må leveres i tide.'
+  cefr_level: 
+  definitions:
+    - norwegian: |
+         Konstruksjonen betyr å gjøre noe innen en bestemt tidsfrist eller før det er for sent.
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+85:
+  name: 'om S'
+  UD_name: ''
+  illustration: 'om morgenen, om kvelden, om dagen'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+86:
+  name: 'X bærer med seg Y'
+  UD_name: ''
+  illustration: 'kolonialiseringen bærer med seg mange stygge historier'
+  cefr_level: 
+  definitions:
+  examples:
+    - |
+         dagens maleri bærer med seg arven fra popkunsten
+    - |
+         resultatet bærer med seg håp om at befolkningen reiser seg til neste valg
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+87:
+  name: 'V så Adj PRON kan'
+  UD_name: ''
+  illustration: 'Han løp hjem så fort han kunne.'
+  cefr_level: 
+  definitions:
+    - norwegian: |
+         Konstruksjonen beskriver at noen gjør noe med maksimal innsats eller kapasitet. Den indikerer at personen gjør sitt beste eller bruker all sin tilgjengelige energi eller evne i en gitt situasjon. Det er en måte å understreke at handlingen ble utført med full intensitet eller effektivitet.
+  examples:
+    - |
+         Jeg lover å gjøre så godt jeg kan.
+    - |
+         Så raskt hun kan pakker hun sakene sine og forsøker å komme seg ut fra forelesningen uten å forstyrre de andre.
+    - |
+         Han hylgråter så høyt han kan og roper ting til meg.
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+88:
+  name: 'så sent som TID'
+  UD_name: ''
+  illustration: 'Så sent som i går lå det fortsatt snøhauger igjen i sentrum'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+89:
+  name: 'holde X ansvarlig (for Y)'
+  UD_name: ''
+  illustration: 'Mange holder danskene ansvarlig (for Grønlands problemer)'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+90:
+  name: 'V for seg selv'
+  UD_name: ''
+  illustration: 'Han ville leke for seg selv.'
+  cefr_level: 
+  definitions:
+    - norwegian: |
+         "for seg selv" = alene, uten selskap (med noen verb: synge, bo, tenke, leke, jobbe, trene)
+  examples:
+    - |
+         Snakk for deg selv
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+91:
+  name: '... for seg selv'
+  UD_name: ''
+  illustration: 'Hun tok en dag fri for seg selv'
+  cefr_level: 
+  definitions:
+    - norwegian: |
+         Konstruksjonen betyr å gjøre noe som er til egen fordel eller nytte, ofte med fokus på personlig tilfredsstillelse, velvære eller utvikling. Det innebærer at handlingen primært er rettet mot å oppfylle egne behov eller ønsker, snarere enn andres.
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+92:
+  name: 'ta seg X PREP'
+  UD_name: ''
+  illustration: 'ta seg tid til, ta seg bryet med, ta seg friheten til'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+93:
+  name: 'X avhenger av at/om Cl'
+  UD_name: ''
+  illustration: 'det avhenger av at universitetet lykkes med satsingen'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+94:
+  name: 'så og si'
+  UD_name: ''
+  illustration: 'Så og si alle pengene mine går til det'
+  cefr_level: 
+  definitions:
+  examples:
+    - |
+         Jeg skriver så og si hver dag
+    - |
+         Operasjonen gikk så og si smertefritt
+    - |
+         Mennesker tror vi har løst så og si alle problemer
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+95:
+  name: 'det SLUTTE å V'
+  UD_name: ''
+  illustration: 'Det sluttet å snø.'
+  cefr_level: 
+  definitions:
+    - norwegian: |
+         Konstruksjonen brukes for å indikere at en aktivitet eller en tilstand ikke lenger fortsetter.
+  examples:
+    - |
+         Jeg helte på vann til det sluttet å ryke.
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+96:
+  name: 'V på vei ut/ned/opp'
+  UD_name: ''
+  illustration: 'Solen var på vei ned i jungelen.'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+97:
+  name: 'Det er mengdeord/pronomen å V'
+  UD_name: ''
+  illustration: 'Det er ingen å se. Det er mye å gjøre.'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+98:
+  name: 'Komme/slippe unna med X'
+  UD_name: ''
+  illustration: 'Vi slapp unna med skrekken'
+  cefr_level: 
+  definitions:
+  examples:
+    - |
+         FrP fortjener ikke å komme unna med løgn overfor velgerne
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+99:
+  name: 'Genitiv superlativ N'
+  UD_name: ''
+  illustration: 'Verdens verste menneske'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+100:
+  name: 'ikke gjøre annet enn å V'
+  UD_name: ''
+  illustration: 'Hittil i dag har jeg ikke gjort annet enn å dusje og kle på meg'
+  cefr_level: 
+  definitions:
+  examples:
+    - |
+         Du gjør ikke annet enn å sykemelde deg
+    - |
+         De gjør ikke annet enn å kritisere presidenten
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+101:
+  name: 'like X kvantor'
+  UD_name: ''
+  illustration: 'Like gøy hver gang'
+  cefr_level: 
+  definitions:
+  examples:
+    - |
+         Like dumme begge to
+    - |
+         Vi er like forskjellige alle sammen
+    - |
+         Like magisk hvert år
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+102:
+  name: 'ha det ADV'
+  UD_name: ''
+  illustration: 'Vi har det morsomt på jobb'
+  cefr_level: 
+  definitions:
+  examples:
+    - |
+         Hun har det alltid så travelt
+    - |
+         Jeg har det litt vanskelig for tiden
+    - |
+         Ha det bra!
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+103:
+  name: 'X på det beste V'
+  UD_name: ''
+  illustration: 'Forelesningen er et menneskemøte som på det beste gir god anledning til å kombinere av deling av kunnskap med felles refleksjon'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+104:
+  name: 'V-IMPER gjerne'
+  UD_name: ''
+  illustration: 'Kom gjerne på mandag'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+105:
+  name: 'å ta X for god fisk'
+  UD_name: ''
+  illustration: 'Tar du hans ord for god fisk?'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+106:
+  name: 'å senke skuldrene'
+  UD_name: ''
+  illustration: 'Bare senk skuldrene!'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+107:
+  name: 'X bli fristet til V-INF'
+  UD_name: ''
+  illustration: 'De blir fristet til å ta snarveier.'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+108:
+  name: 'en liste over X'
+  UD_name: ''
+  illustration: 'Vi har en liste over relevante publikasjoner.'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+109:
+  name: 'i snitt VP'
+  UD_name: ''
+  illustration: 'De har i snitt færre publikasjoner.'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+110:
+  name: 'X bak Y'
+  UD_name: ''
+  illustration: 'en av forskerne bak studien'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+111:
+  name: 'X belønner Y framfor Z'
+  UD_name: ''
+  illustration: 'publiseringssystemet belønner kvantitet framfor kvalitet'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+112:
+  name: 'å stille spørsmål ved X'
+  UD_name: ''
+  illustration: 'Den nye studien stiller spørsmål ved denne praxisen'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+113:
+  name: 'X stå overfor Y'
+  UD_name: ''
+  illustration: 'Yngre forskere står overfor et særlig høyt press'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+114:
+  name: 'X bli/være utsatt for Y'
+  UD_name: ''
+  illustration: 'De er utsatt for diskriminering'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+115:
+  name: 'å sette grenser for X'
+  UD_name: ''
+  illustration: 'De vil blant annet sette grenser for hvor mange publikasjoner og medforfattere som skal telle fullt ut'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+116:
+  name: 'å ta hensyn til X'
+  UD_name: ''
+  illustration: 'Forslaget deres tar også hensyn til forskernes karrierelengde'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+117:
+  name: 'å stikke kjepper i hjulene for X'
+  UD_name: ''
+  illustration: 'Dette er kun et knippe av ordene som kan stikke kjepper i hjulene for offentlig forskningsfinansiering i USA.'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+118:
+  name: 'X bryte med Y'
+  UD_name: ''
+  illustration: 'for å sjekke at de ikke bryter med noen av Trumps nye presidentordrer'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+119:
+  name: 'enten X eller Y'
+  UD_name: ''
+  illustration: 'slike flaggede prosjekter enten kan stanses helt eller må endres'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+120:
+  name: 'X stå på listen'
+  UD_name: ''
+  illustration: 'Mens kvinne og svart står på listen, gjør ikke mann og hvit det.'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+121:
+  name: 'X passe inn med Y'
+  UD_name: ''
+  illustration: 'alt som ikke passer inn med deres ideologi, skal ut'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+122:
+  name: 'X søke etter Y'
+  UD_name: ''
+  illustration: 'det føderale forskningsrådet søker gjennom forskningsaktiviteter, prosjekter og søknader etter ord og språk som kan bryte med presidentordrene'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+123:
+  name: 'X tråkke i kraft'
+  UD_name: ''
+  illustration: 'Rett før ordren trådte i kraft, blokkerte en føderal dommer den.'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+124:
+  name: 'X skape hodebry for Y'
+  UD_name: ''
+  illustration: 'Det skaper hodebry for universitetene.'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+125:
+  name: 'ikke V fram til VP'
+  UD_name: ''
+  illustration: 'de ble bedt om ikke å forplikte seg til økonomiske utgifter fram til universitetet visste om det ville få dekket dette gjennom føderal finansiering eller ikke'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+126:
+  name: 'X være/bli overrasket over Y'
+  UD_name: ''
+  illustration: 'Trump var overrasket over å bli president'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+127:
+  name: 'X, om ikke Y'
+  UD_name: ''
+  illustration: 'Det internasjonale samarbeidet med USA blir vanskelig, om ikke umulig.'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+128:
+  name: 'Målet med ... er å V / er at ...'
+  UD_name: ''
+  illustration: 'Målet med animasjonsserien er å skape trygge klassemiljøer og forebygge og redusere mobbing på skolen og på skoleveien.'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+129:
+  name: 'ADJ nok'
+  UD_name: ''
+  illustration: 'Interessant nok'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+130:
+  name: 'ADJ-comp og ADJ-comp'
+  UD_name: ''
+  illustration: 'bedre og bedre'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+131:
+  name: 'se og V'
+  UD_name: ''
+  illustration: 'se og få deg et liv'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+132:
+  name: 'gå hen og V'
+  UD_name: ''
+  illustration: 'Han gikk hen og fikk A på eksamen!'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+133:
+  name: 'ta og V'
+  UD_name: ''
+  illustration: 'Han tok og flytta bilen i stad'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+134:
+  name: 'drive og V'
+  UD_name: ''
+  illustration: 'De driver og jobber'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+135:
+  name: 'sitte og V'
+  UD_name: ''
+  illustration: 'De satt og leste da det ringte på'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+136:
+  name: 'V og V (pseudokoordinering)'
+  UD_name: ''
+  illustration: 'Vær snill og send saltet. Vi driver og lurer på det.'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+137:
+  name: 'Det hender (at) X'
+  UD_name: ''
+  illustration: 'Det kan hende at han blir sint'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+138:
+  name: 'Det handler om hvor/hvordan/hvem X'
+  UD_name: ''
+  illustration: 'Det handler ikke om hvordan du har det'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+139:
+  name: 'Til tross for at X'
+  UD_name: ''
+  illustration: 'til tross for at det er store vanskeligheter i Europa'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+140:
+  name: 'X få vite Y'
+  UD_name: ''
+  illustration: 'Hun skulle få vite at hun er same'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+141:
+  name: 'X holde kjeft'
+  UD_name: ''
+  illustration: 'Hun kunne ikke holde kjeft når...'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+142:
+  name: '(h)verken X eller Y'
+  UD_name: ''
+  illustration: 'Hverken lærere eller elever kan stave dette ordet korrekt'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+143:
+  name: 'bortsett fra X'
+  UD_name: ''
+  illustration: 'Bortsett fra det, er det noe annet du ønsker?'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+144:
+  name: 'X ha rett'
+  UD_name: ''
+  illustration: 'Hun har rett'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+145:
+  name: 'X ha is i magen'
+  UD_name: ''
+  illustration: 'Vi må ha is i magen, det skal gå bra.'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+146:
+  name: 'X få lov til å X'
+  UD_name: ''
+  illustration: 'det er ei ære og glede å få lov til å gjere det'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+147:
+  name: 'til og med X'
+  UD_name: ''
+  illustration: 'Hun var så flink at hun til og med underviste læreren.'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+148:
+  name: 'blant annet X'
+  UD_name: ''
+  illustration: 'Vi besøkte flere byer, blant annet Oslo og Bergen.'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+149:
+  name: 'X tar feil'
+  UD_name: ''
+  illustration: 'Du tar feil!'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+150:
+  name: 'Adj/Adv sett Cl'
+  UD_name: ''
+  illustration: 'Historisk sett har det kristne trossamfunnet hatt en sterk tradisjon for avholdenhet'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+151:
+  name: 'hver enkel X'
+  UD_name: ''
+  illustration: 'det er viktig at hver enkelt forsker etterstreber balanse og objektivitet'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+152:
+  name: 'stå overfor X'
+  UD_name: ''
+  illustration: 'vi står overfor en type arbeid hvor kravene til systematisk objektivitet og kontroll er godt metodologisk sikret'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+153:
+  name: 'VP over en lav sko'
+  UD_name: ''
+  illustration: 'e-postadresser ble utvekslet over en lav sko'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+154:
+  name: 'kjempe-Adj'
+  UD_name: ''
+  illustration: 'Det var kjempebra'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+155:
+  name: 'små-Adj'
+  UD_name: ''
+  illustration: 'Han er småsyk. Småsliten etter første arbeidsdag.'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+156:
+  name: 'heller X (enn Y)'
+  UD_name: ''
+  illustration: 'Han vil heller spille enn å prate med meg'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+157:
+  name: 'X sette (stor) pris på Y'
+  UD_name: ''
+  illustration: 'Jeg setter stor pris på din støtte'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+158:
+  name: 'X (først) gå opp for Y'
+  UD_name: ''
+  illustration: 'et tap som først gikk opp for meg da jeg kom tilbake og så hva jeg hadde forlatt'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+159:
+  name: 'X V seg i hjel'
+  UD_name: ''
+  illustration: 'Flere drikker seg i hjel enn tidligere'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+160:
+  name: 'X se fram til Y'
+  UD_name: ''
+  illustration: 'Jeg ser fram til samarbeid med dere'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+161:
+  name: 'Målet med ... er å V / er at ...'
+  UD_name: ''
+  illustration: 'Målet med animasjonsserien er å skape trygge klassemiljøer og forebygge og redusere mobbing på skolen og på skoleveien.'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+162:
+  name: 'X glede seg til å V'
+  UD_name: ''
+  illustration: 'Jeg gleder meg til å se dere.'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+163:
+  name: 'gå(/komme) til X-s'
+  UD_name: ''
+  illustration: 'Vi går til sengs/fjells/bords'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+164:
+  name: 'X mister Y av syne'
+  UD_name: ''
+  illustration: 'Så mista vi begge den yngste broren vår av syne'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+165:
+  name: 'stå til med X'
+  UD_name: ''
+  illustration: 'Hvordan står det til med moren din?'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+166:
+  name: 'X stå på i Y'
+  UD_name: ''
+  illustration: 'snakke høyt og ivrig om hva som sto på i bygda'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+167:
+  name: 'X V ikke engang Q VP'
+  UD_name: ''
+  illustration: 'Jeg vet ikke engang hvorfor jeg forsøker å gjøre det.'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+168:
+  name: 'X dårlig til Y'
+  UD_name: ''
+  illustration: 'Hun er dårlig til beins'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+169:
+  name: 'X ha (ikke) peiling'
+  UD_name: ''
+  illustration: 'Jeg har ikke peiling'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+170:
+  name: 'X være/bli i stand til å V'
+  UD_name: ''
+  illustration: 'Hun skal være i stand til å holde foredraget sitt i morgen.'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+171:
+  name: 'ha ikke X på TID (utstrekning) / siden TID (punkt)'
+  UD_name: ''
+  illustration: 'Jeg har ikke jobbet på 3 år / siden Covid-19.'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+172:
+  name: 'fort gjort å V'
+  UD_name: ''
+  illustration: 'Flere av oss har vel erfart at det er fort gjort å trykke på feil tast (NoWaC)'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+173:
+  name: 'late som X'
+  UD_name: ''
+  illustration: 'Hun later som ingenting og prøver å være den blide jenten hun alltid har vært (NoWaC)'
+  cefr_level: 
+  definitions:
+  examples:
+    - |
+         De gikk inn i 54 valgboder og lot som de var rasister (NoWaC)
+    - |
+         DN kutter ut professoren som lot som han var reklamemann (NoWaC)
+    - |
+         Kanskje de bare later som om de ikke forstår det? (NoWaC)
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+174:
+  name: 'ende opp med å V'
+  UD_name: ''
+  illustration: 'Trond Viggo og Marte Stokstad prøvde seg som stuntmenn og endte opp med å gi hverandre juling.'
+  cefr_level: 
+  definitions:
+  examples:
+    - |
+         Fekk 1200 kr å bruke på ka som helst, men endte opp med en pose boller og litt snop
+    - |
+         De svømmer inn i navelen din og ender opp med å komme ut munnen (NoWaC)
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+175:
+  name: 'det er sant (at)'
+  UD_name: ''
+  illustration: 'A: Det er et lite sted. B: Det er sant.'
+  cefr_level: 
+  definitions:
+    - english: |
+         Focal construction
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      https://doi.org/10.1093/applin/amae006
+  semantic_types:
+  family:
+    - |
+      ""
+176:
+  name: 'X ta seg i å V'
+  UD_name: ''
+  illustration: 'Hun kan ta seg i å savne sjølufta når hun besøker barndomsbygda.'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+177:
+  name: 'Det aner X Cl'
+  UD_name: ''
+  illustration: 'Det aner meg hva faren min føler hver gang kystlandet slepper taket.'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+178:
+  name: 'X få tak i/på Y'
+  UD_name: ''
+  illustration: 'Jeg skal få tak i ham og ordne opp i dette'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+179:
+  name: 'X ordne opp i Y'
+  UD_name: ''
+  illustration: 'Jeg skal få tak i ham og ordne opp i dette'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+180:
+  name: 'X sette Y på spill'
+  UD_name: ''
+  illustration: 'Han setter æren på spill'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+181:
+  name: 'X komme (ikke) på tale'
+  UD_name: ''
+  illustration: 'Salg av Grønland kommer ikke på tale'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+182:
+  name: 'X kaste seg inn/ut i Y'
+  UD_name: ''
+  illustration: 'Hun kaster seg inn i diskusjonen. Jeg kastet meg ut i dansen.'
+  cefr_level: 
+  definitions:
+  examples:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  semantic_roles:
+    - ~
+  intonation:
+    - ~
+  usage_label: ~
+  dependency_structure:
+    - ~
+  dependency_structure_of_illustration:
+    - ~
+  common_fillers:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
