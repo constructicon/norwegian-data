@@ -1,9 +1,9 @@
 ---
-record: 450
-name: "X tykkje (at) Cl (nynorsk)"
+record: 962
+name: "X ha kustus på Y"
 UD_name: ''
 illustration: |
-    Han tykkjer det er trist at ikkje fleire vel sjåføryrket (NRK)
+    Instruktørene har kustus på ungene, og lærer dem å høre etter når beskjeder blir gitt (NoWaC)
 cefr_level: 
 definitions:
 examples:

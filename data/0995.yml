@@ -1,9 +1,9 @@
 ---
-record: 450
-name: "X tykkje (at) Cl (nynorsk)"
+record: 995
+name: "X peke på Y / X peke på at Cl"
 UD_name: ''
 illustration: |
-    Han tykkjer det er trist at ikkje fleire vel sjåføryrket (NRK)
+    Rapporten peker på at en styringsstruktur basert på dugnad, lav rekruttering, gammel infrastruktur og mangel på forankring hos beslutningstakere, er viktige årsaker til svekkelsene (NRK)
 cefr_level: 
 definitions:
 examples:

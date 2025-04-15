@@ -1,9 +1,9 @@
 ---
-record: 450
-name: "X tykkje (at) Cl (nynorsk)"
+record: 918
+name: "X komme/slippe gjennom nåløyet (til Y)"
 UD_name: ''
 illustration: |
-    Han tykkjer det er trist at ikkje fleire vel sjåføryrket (NRK)
+    Vi sier artikkelen er din, men den har gått gjennom det meget smale redaksjonelle nåløyet til resten av styret (NoWaC)
 cefr_level: 
 definitions:
 examples:

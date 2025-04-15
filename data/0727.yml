@@ -1,9 +1,9 @@
 ---
-record: 450
-name: "X tykkje (at) Cl (nynorsk)"
+record: 727
+name: "X være ment som Y / X være Y ment"
 UD_name: ''
 illustration: |
-    Han tykkjer det er trist at ikkje fleire vel sjåføryrket (NRK)
+    Det var ment som en spøk / Det var ikke vondt ment
 cefr_level: 
 definitions:
 examples:

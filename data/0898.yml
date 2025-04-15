@@ -1,9 +1,9 @@
 ---
-record: 450
-name: "X tykkje (at) Cl (nynorsk)"
+record: 898
+name: "X gripe inn (med Y) (i/mot Z)"
 UD_name: ''
 illustration: |
-    Han tykkjer det er trist at ikkje fleire vel sjåføryrket (NRK)
+    Han varsler at regjeringa griper inn med tvungen lønnsnemnd i finanskonflikten mandag (NoWaC)
 cefr_level: 
 definitions:
 examples:
