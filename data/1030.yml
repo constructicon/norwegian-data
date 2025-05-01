@@ -1,9 +1,9 @@
 ---
-record: 1020
-name: "X halde fram med å VERB-INF (nynorsk)"
+record: 1030
+name: "X være i så fall Adj"
 UD_name: ''
 illustration: |
-    Så lenge det ikkje blir lagt meir press på Russland, kan Vladimir Putin berre halde fram med det han gjer i dag (NRK)
+    Men den renten ville i så fall være negativ.
 cefr_level: 
 definitions:
 examples:

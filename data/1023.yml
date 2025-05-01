@@ -1,9 +1,9 @@
 ---
-record: 1020
-name: "X halde fram med å VERB-INF (nynorsk)"
+record: 1023
+name: "X komme Y i forkjøpet"
 UD_name: ''
 illustration: |
-    Så lenge det ikkje blir lagt meir press på Russland, kan Vladimir Putin berre halde fram med det han gjer i dag (NRK)
+    ho skulle til å ta det siste kakestykket, men veslebroren kom henne i forkjøpet
 cefr_level: 
 definitions:
 examples:

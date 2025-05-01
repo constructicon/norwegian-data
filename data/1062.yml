@@ -1,9 +1,9 @@
 ---
-record: 1020
-name: "X halde fram med å VERB-INF (nynorsk)"
+record: 1062
+name: "X ta inn over seg Y"
 UD_name: ''
 illustration: |
-    Så lenge det ikkje blir lagt meir press på Russland, kan Vladimir Putin berre halde fram med det han gjer i dag (NRK)
+    Det er vanskelig å ta inn over seg (NRK)
 cefr_level: 
 definitions:
 examples:

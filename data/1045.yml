@@ -1,9 +1,9 @@
 ---
-record: 1020
-name: "X halde fram med å VERB-INF (nynorsk)"
+record: 1045
+name: "X få/ta/sende Y i retur"
 UD_name: ''
 illustration: |
-    Så lenge det ikkje blir lagt meir press på Russland, kan Vladimir Putin berre halde fram med det han gjer i dag (NRK)
+    Jeg skrev avisartikler og fikk dem i retur (NoWaC)
 cefr_level: 
 definitions:
 examples:

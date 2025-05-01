@@ -1,9 +1,9 @@
 ---
-record: 1020
-name: "X halde fram med å VERB-INF (nynorsk)"
+record: 1109
+name: "[NOEN] nekte for [NOE] / [NOEN] nekte for at LEDDSETNING"
 UD_name: ''
 illustration: |
-    Så lenge det ikkje blir lagt meir press på Russland, kan Vladimir Putin berre halde fram med det han gjer i dag (NRK)
+    De to har nektet for at de visste at det også var 3,9 kilo kokain i bagene (NRK)
 cefr_level: 
 definitions:
 examples:

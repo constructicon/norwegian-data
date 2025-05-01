@@ -1,9 +1,9 @@
 ---
-record: 1020
-name: "X halde fram med å VERB-INF (nynorsk)"
+record: 1024
+name: "jo COMP XP desto COMP XP"
 UD_name: ''
 illustration: |
-    Så lenge det ikkje blir lagt meir press på Russland, kan Vladimir Putin berre halde fram med det han gjer i dag (NRK)
+    Jo mer vi rekker å gjøre, desto mindre føler vi at vi rekker. Jo yngre vi føler oss, desto bedre har vi det.
 cefr_level: 
 definitions:
 examples:

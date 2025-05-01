@@ -1,9 +1,9 @@
 ---
-record: 1020
-name: "X halde fram med å VERB-INF (nynorsk)"
+record: 1071
+name: "X sette Y ned / X sette ned Y"
 UD_name: ''
 illustration: |
-    Så lenge det ikkje blir lagt meir press på Russland, kan Vladimir Putin berre halde fram med det han gjer i dag (NRK)
+    Æ fikk en alvorsprat fra mora mi. Hu satt mæ ned og sa at æ har pottensial (NRK)
 cefr_level: 
 definitions:
 examples:

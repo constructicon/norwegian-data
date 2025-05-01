@@ -1,9 +1,9 @@
 ---
-record: 1020
-name: "X halde fram med å VERB-INF (nynorsk)"
+record: 1145
+name: "begge deler"
 UD_name: ''
 illustration: |
-    Så lenge det ikkje blir lagt meir press på Russland, kan Vladimir Putin berre halde fram med det han gjer i dag (NRK)
+    I tillegg er det både jobb, skole eller begge deler (NoWaC)
 cefr_level: 
 definitions:
 examples:

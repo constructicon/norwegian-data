@@ -1,9 +1,9 @@
 ---
-record: 1020
-name: "X halde fram med å VERB-INF (nynorsk)"
+record: 1111
+name: "[NOEN] ha grunn til å VERB-INF"
 UD_name: ''
 illustration: |
-    Så lenge det ikkje blir lagt meir press på Russland, kan Vladimir Putin berre halde fram med det han gjer i dag (NRK)
+    Beroliget har de ingen grunn til å være (NRK)
 cefr_level: 
 definitions:
 examples:

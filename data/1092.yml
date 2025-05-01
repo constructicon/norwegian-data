@@ -1,9 +1,9 @@
 ---
-record: 1020
-name: "X halde fram med å VERB-INF (nynorsk)"
+record: 1092
+name: "det bli [TALL] kroner (til sammen)"
 UD_name: ''
 illustration: |
-    Så lenge det ikkje blir lagt meir press på Russland, kan Vladimir Putin berre halde fram med det han gjer i dag (NRK)
+    -Hvor mye blir det til sammen? -Det blir 200 kr.
 cefr_level: 
 definitions:
 examples:

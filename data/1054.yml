@@ -1,9 +1,9 @@
 ---
-record: 1020
-name: "X halde fram med å VERB-INF (nynorsk)"
+record: 1054
+name: "X bøte på Y"
 UD_name: ''
 illustration: |
-    Så lenge det ikkje blir lagt meir press på Russland, kan Vladimir Putin berre halde fram med det han gjer i dag (NRK)
+    OpenAI er åpen om at det kan være utfordringer med Codex, og jobber med å bøte på mange av dem (forskersonen)
 cefr_level: 
 definitions:
 examples:
