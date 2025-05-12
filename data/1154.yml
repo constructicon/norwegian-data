@@ -1,0 +1,37 @@
+---
+record: 1154
+name: "hva være [NOE] for no(e) SUBSTANTIV? (evaluative)"
+UD_name: ''
+illustration: |
+    Hva er det for noe piss? (NoWaC) Mellom 8 og 15?? Hva er det for noe tall å komme med da? (NoWaC)
+cefr_level: 
+definitions:
+examples:
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""
