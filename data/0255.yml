@@ -1,8 +1,8 @@
 ---
 record: 255
-name: "VERB (seg) ferdig"
+name: "V (seg) ferdig"
 illustration: |
-    hun har strikket ferdig genseren, jeg skal gjøre meg ferdig etterpå, jeg prøvde å grine meg ferdig i bilen
+    hun har strikket ferdig genseren, jeg skal gjøre meg ferdig etterpå
 cefr_level: 
 definitions:
 examples:

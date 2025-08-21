@@ -1,8 +1,8 @@
 ---
 record: 515
-name: "[NOEN] være i villrede om [NOE]"
+name: "X ved hjelp av Y"
 illustration: |
-    Forbrukerne er i villrede om hva som er bærekraftig emballasje
+    De analyserer trafikk ved hjelp av videoopptak
 cefr_level: 
 definitions:
 examples:

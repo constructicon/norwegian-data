@@ -1,6 +1,6 @@
 ---
 record: 139
-name: "[NOE] handle om hvor/hvordan/hvem VERB"
+name: "det handler (ikke) om hvor/hvordan/hvem X"
 illustration: |
     Det handler ikke om hvordan du har det.
 cefr_level: 

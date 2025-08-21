@@ -1,8 +1,8 @@
 ---
 record: 537
-name: "[NOE/NOEN] høre hjemme [STED]"
+name: "VP i påvente av X"
 illustration: |
-    Her hører jeg ikke hjemme.
+    I påvente av bedre vær får vi hjelp fra Brauter og Moen AS til å tappe ut litt vann av bakken
 cefr_level: 
 definitions:
 examples:

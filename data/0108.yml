@@ -1,6 +1,6 @@
 ---
 record: 108
-name: "[NOEN] bli fristet til VERB-INF"
+name: "X bli fristet til V-INF"
 illustration: |
     De blir fristet til å ta snarveier.
 cefr_level: 
@@ -33,4 +33,4 @@ references:
 semantic_types:
 family:
   - |
-    "[NOE] eller V-INF"
+    ""

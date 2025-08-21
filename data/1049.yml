@@ -1,8 +1,8 @@
 ---
 record: 1049
-name: "VERB seg fast"
+name: "det være knyttet forventning/spenning/usikkerhet til X"
 illustration: |
-    To nordmenn kjørte seg fast og ble pågrepet (NRK)
+    I forkant er det knyttet særlig stor spenning til saken øverst på side 65 i landsstyrets innstilling i program for perioden (NRK)
 cefr_level: 
 definitions:
 examples:

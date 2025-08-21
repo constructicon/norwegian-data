@@ -1,12 +1,10 @@
 ---
 record: 171
-name: "ikke ha VERB-PARTISIPP siden [TID]"
+name: "være/bli i stand til å V"
 illustration: |
-    Han har ikke jobbet siden Covid-19.
+    Hun skal være i stand til å holde foredraget sitt i morgen.
 cefr_level: 
 definitions:
-  - norwegian: |
-       Konstruksjonen uttrykker at en situasjon ikke gjelder fra et gitt tidspunkt i fortiden og frem til taletidspunktet.
 examples:
 morphology:
   - ~

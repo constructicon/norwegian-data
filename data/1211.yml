@@ -1,8 +1,8 @@
 ---
 record: 1211
-name: "[NOEN] forholde seg til [NOE/NOEN]"
+name: "[NOEN-agent] VERB [NOE/N-tema] til [NOEN-mottaker]"
 illustration: |
-    Forhold deg til realitetene
+    Jeg sender e-posten til deg
 cefr_level: 
 definitions:
 examples:

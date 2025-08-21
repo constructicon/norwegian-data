@@ -1,8 +1,8 @@
 ---
 record: 192
-name: "[NOE/NOEN] være VERB-PARTISIPP for [NOE] (av [NOEN])"
+name: "X utsettes / være/bli utsatt for Y"
 illustration: |
-    Samene er utsatt for hets (av etniske nordmenn).
+    Samene utsettes for hets.
 cefr_level: 
 definitions:
 examples:

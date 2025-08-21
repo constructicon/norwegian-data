@@ -1,11 +1,13 @@
 ---
 record: 241
-name: "[NOEN] kjenne på [NOE]"
+name: "X ha Y i bakhodet"
 illustration: |
-    Det at jeg ikke kunne beskytte ham og ta vare på ham, det kjenner jeg på. (NRK)
+    Vi vet ikke hvaslags planer han har i bakhodet
 cefr_level: 
 definitions:
 examples:
+  - |
+       Ha det i bakhodet neste gang du scroller eller ser en reklame i et magasin eller på tv. (Facebook)
 morphology:
   - ~
 syntactic_type_of_construction:
