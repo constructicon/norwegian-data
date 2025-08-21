@@ -1,9 +1,8 @@
 ---
 record: 552
-name: "det gå opp for X at Cl"
-UD_name: ''
+name: "hvis X var Y"
 illustration: |
-    Det gikk etter hvert opp for meg at det var et mord, ikke en påkjørsel, jeg var vitne til (NRK)
+    hvis jeg var deg
 cefr_level: 
 definitions:
 examples:

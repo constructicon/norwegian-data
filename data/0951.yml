@@ -1,9 +1,8 @@
 ---
 record: 951
-name: "X være å anbefale"
-UD_name: ''
+name: "[MENGDE]-vis"
 illustration: |
-    Om du er ein person som likar å jobbe mykje, er det absolutt å anbefale, legg sjåføren til (NRK)
+    hundrevis, tusenvis, massevis, haugevis
 cefr_level: 
 definitions:
 examples:

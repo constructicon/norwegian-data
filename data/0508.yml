@@ -1,9 +1,8 @@
 ---
 record: 508
-name: "på vegne av X"
-UD_name: ''
+name: "[NOEN] ha [NOE] i vente"
 illustration: |
-    på vegne av venner
+    Hva er det egentlig vi har i vente?
 cefr_level: 
 definitions:
 examples:

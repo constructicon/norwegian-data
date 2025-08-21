@@ -1,9 +1,8 @@
 ---
 record: 161
-name: "X se fram til Y"
-UD_name: ''
+name: "[NOEN] glede seg til [NOE]"
 illustration: |
-    Jeg ser fram til samarbeid med dere.
+    Jeg gleder meg til å se dere.
 cefr_level: 
 definitions:
 examples:

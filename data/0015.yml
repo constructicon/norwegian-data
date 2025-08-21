@@ -1,7 +1,6 @@
 ---
 record: 15
-name: "gå lei av S / å V-INF"
-UD_name: ''
+name: "[NOEN] gå/bli/være lei av [NOE]"
 illustration: |
     Jeg har gått lei av pizza etter å ha spist det hver helg i flere måneder.
 cefr_level: A2

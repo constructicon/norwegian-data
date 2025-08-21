@@ -1,7 +1,6 @@
 ---
 record: 105
-name: "V-IMPER gjerne"
-UD_name: ''
+name: "VERB-IMPER gjerne"
 illustration: |
     Kom gjerne på mandag.
 cefr_level: 

@@ -1,7 +1,6 @@
 ---
 record: 47
-name: "det skal V-s at Cl (supplementerende)"
-UD_name: ''
+name: "det skal VERB-s at LEDDSETNING"
 illustration: |
     Det skal sies at det ikke bare er kvinner som har problemer med å vokse opp i en æreskultur.
 cefr_level: B2

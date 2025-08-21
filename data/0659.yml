@@ -1,9 +1,8 @@
 ---
 record: 659
-name: "X få nok (av Y)"
-UD_name: ''
+name: "[NOEN] slå/skru av/på [NOE]"
 illustration: |
-    TV-profilen har fått nok av kommentarene på gravidkroppen (Dagbladet)
+    Slå av TVen. Skru på datamaskinen.
 cefr_level: 
 definitions:
 examples:

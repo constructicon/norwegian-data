@@ -1,9 +1,8 @@
 ---
 record: 593
-name: "X bli snytt for Y"
-UD_name: ''
+name: "[NOEN] sette pris på [NOE/NOEN]"
 illustration: |
-    Trump mener han ble snytt for en ny presidentperiode da han tapte valget i 2020 (NRK)
+    Vi set stor pris på dei konstruktive samtalane som går føre seg (NRK)
 cefr_level: 
 definitions:
 examples:

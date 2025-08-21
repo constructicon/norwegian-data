@@ -1,9 +1,8 @@
 ---
 record: 1023
-name: "X komme Y i forkjøpet"
-UD_name: ''
+name: "på [NOEN]s bord"
 illustration: |
-    ho skulle til å ta det siste kakestykket, men veslebroren kom henne i forkjøpet
+    Da Senterpartiet forlot regjeringen, falt forslaget på Aas-Hansens bord (NRK)
 cefr_level: 
 definitions:
 examples:

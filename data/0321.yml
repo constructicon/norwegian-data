@@ -1,9 +1,8 @@
 ---
 record: 321
-name: "gi X / X ta/få plass ved Ys bord"
-UD_name: ''
+name: "ut [TID]"
 illustration: |
-    Gi studentene plass ved forskernes bord (Khrono)
+    studentene får ut 2029 med å fullføre utdanningen
 cefr_level: 
 definitions:
 examples:

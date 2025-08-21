@@ -1,7 +1,6 @@
 ---
 record: 33
-name: "V (preposisjon) [STED]"
-UD_name: ''
+name: "VERB (PREPOSISJON) [STED]"
 illustration: |
     Jeg skal på kino. Jeg drar hjem.
 cefr_level: A1

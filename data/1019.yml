@@ -1,9 +1,8 @@
 ---
 record: 1019
-name: "X gjøre narr av Y"
-UD_name: ''
+name: "[NOEN] være [MENING] til [NOE]"
 illustration: |
-    Eg håpar Trump kan sjå at Putin gjer narr av godviljen hans (NRK)
+    Rektor ved Universitetet i Bergen, Margareth Hagen, er positiv til den nye ordningen (NRK)
 cefr_level: 
 definitions:
 examples:

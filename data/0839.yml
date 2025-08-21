@@ -1,9 +1,8 @@
 ---
 record: 839
-name: "X være (helt) på trynet"
-UD_name: ''
+name: "[NOE] bli/være/stå ferdig til [TID]"
 illustration: |
-    Teatersjef Cathrine Telle ved Trøndelag teater mener forslaget om at teatrene setter opp minst ett stykke for barn i hver sesong, er helt på trynet (NRK)
+    Det midlertidige krysset blir permanent inntil den nye rundkjøringa står ferdig til sommeren (NoWaC)
 cefr_level: 
 definitions:
 examples:

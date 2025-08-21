@@ -1,9 +1,8 @@
 ---
 record: 601
-name: "på lang/kort sikt"
-UD_name: ''
+name: "[NOE/NOEN] sette fart i [NOE/NOEN]"
 illustration: |
-    Russland utgjør en trussel på lang sikt (NRK)
+    Det er Trumps kutt i finansiering og trusler om oppsigelser som for alvor har satt fart i planene om å flytte (Khrono)
 cefr_level: 
 definitions:
 examples:

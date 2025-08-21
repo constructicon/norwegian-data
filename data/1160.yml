@@ -1,9 +1,8 @@
 ---
 record: 1160
-name: "fy SUBSTANTIV"
-UD_name: ''
+name: "VERB-kne"
 illustration: |
-    fy søren, fy faen, fy skam, fy pokker, fy flate, fy fader, fy fasan, fy fabian, fy satan
+    våkne/mørkne/blekne/mørkne/rakne/kvikne/tykne/slukne/størkne/friskne/harskne/mykne
 cefr_level: 
 definitions:
 examples:

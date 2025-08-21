@@ -1,7 +1,6 @@
 ---
 record: 69
-name: "en S på [STØRRELSE]"
-UD_name: ''
+name: "en SUBSTANTIV på [STØRRELSE]"
 illustration: |
     En leilighet på 70 m2.
 cefr_level: A2

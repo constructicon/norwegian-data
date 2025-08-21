@@ -1,7 +1,6 @@
 ---
 record: 97
-name: "V på vei [RETNING]"
-UD_name: ''
+name: "VERB på vei [RETNING]"
 illustration: |
     Solen var på vei ned i jungelen.
 cefr_level: 

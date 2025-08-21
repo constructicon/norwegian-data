@@ -1,9 +1,8 @@
 ---
 record: 510
-name: "i like måte"
-UD_name: ''
+name: "i hele [TID]"
 illustration: |
-    Takk i like måte
+    i hele går, i hele dag, i hele fjor
 cefr_level: 
 definitions:
 examples:

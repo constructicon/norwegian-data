@@ -1,9 +1,8 @@
 ---
 record: 466
-name: "X er spikeren i kista for Y"
-UD_name: ''
+name: "[NOE/NOEN] ha [NOE] til felles (med [NOE/NOEN])"
 illustration: |
-    Dette er spikeren i kista for rentekutt
+    Hva har pingviner til felles med andre fugler?
 cefr_level: 
 definitions:
 examples:

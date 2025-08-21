@@ -1,9 +1,8 @@
 ---
 record: 327
-name: "X kaste rundt seg med Y"
-UD_name: ''
+name: "[NOEN] åpne for [NOE]"
 illustration: |
-    Kanalene kaster rundt seg med nye serier (NoWaC)
+    åpner for å droppe lærermaster / åpner for at elever skal kunne velge vekk fremmedspråk
 cefr_level: 
 definitions:
 examples:

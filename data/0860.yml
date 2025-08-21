@@ -1,9 +1,8 @@
 ---
 record: 860
-name: "VP Sånn egentlig?"
-UD_name: ''
+name: "[NOEN] gripe inn (med [NOE]) (i/mot [NOEN])"
 illustration: |
-    Hvem ønsker å bli kvalt? Sånn egentlig? (NRK)
+    Han varsler at regjeringa griper inn med tvungen lønnsnemnd i finanskonflikten mandag (NoWaC)
 cefr_level: 
 definitions:
 examples:

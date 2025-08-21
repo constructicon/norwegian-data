@@ -1,9 +1,8 @@
 ---
 record: 774
-name: "X bla opp (for Y)"
-UD_name: ''
+name: "X ved siden av Y"
 illustration: |
-    Nå krever Norges Lastebileier-Forbund at vegvesenet blar opp for skadene (NRK)
+    De sitter ved siden av hverandre
 cefr_level: 
 definitions:
 examples:

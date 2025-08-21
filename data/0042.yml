@@ -1,7 +1,6 @@
 ---
 record: 42
-name: "V inn/bortom"
-UD_name: ''
+name: "VERB innom/bortom"
 illustration: |
     Jeg stikker innom etter jobb.
 cefr_level: B1

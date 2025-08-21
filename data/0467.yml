@@ -1,9 +1,8 @@
 ---
 record: 467
-name: "ta (ADJ) grep"
-UD_name: ''
+name: "en varslet SUBSTANTIV"
 illustration: |
-    Tok drastiske grep (NRK)
+    en varslet katastrofe/endring/krise/prisstigning/renteøkning
 cefr_level: 
 definitions:
 examples:

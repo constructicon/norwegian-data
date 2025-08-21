@@ -1,9 +1,8 @@
 ---
 record: 1097
-name: "[NOEN] ha en ADJEKTIV [TID]"
-UD_name: ''
+name: "[NOEN] overtale [NOEN] til å VERB-INFINITIV"
 illustration: |
-    Ha en fin dag, ha en god påske
+    Når det gjelder skolevegring så gjør foreldrene hva de kan for å overtale barnet sitt til å gå på skolen (NRK)
 cefr_level: 
 definitions:
 examples:

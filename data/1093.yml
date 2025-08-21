@@ -1,9 +1,8 @@
 ---
 record: 1093
-name: "[NOEN] si ifra"
-UD_name: ''
+name: "du [NAVN] (vokativ)"
 illustration: |
-    Bare si ifra hvis du trenger hjelp
+    Du Trond, dette buss-verkstedet som det også er bilde av, hva er det for noe? (NoWaC)
 cefr_level: 
 definitions:
 examples:

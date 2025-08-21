@@ -1,7 +1,6 @@
 ---
 record: 90
-name: "holde X ansvarlig (for Y)"
-UD_name: ''
+name: "[NOEN] holde [NOEN] ansvarlig (for [NOE])"
 illustration: |
     Mange holder danskene ansvarlig (for Grønlands problemer).
 cefr_level: 

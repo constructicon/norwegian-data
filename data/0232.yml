@@ -1,9 +1,8 @@
 ---
 record: 232
-name: "X kjenne Y igjen"
-UD_name: ''
+name: "[NOEN] hilse på [NOEN]"
 illustration: |
-    Noen der kjente deg igjen.
+    Hun hilste på de besøkende.
 cefr_level: 
 definitions:
 examples:

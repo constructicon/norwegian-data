@@ -1,9 +1,8 @@
 ---
 record: 1153
-name: "du [NAVN] (vocative)"
-UD_name: ''
+name: "[NOEN-agent] VERB PARTIKKEL [NOE/NOEN]"
 illustration: |
-    Du Trond, dette buss-verkstedet som det også er bilde av, hva er det for noe? (NoWaC)
+    Jeg har lastet ned filen
 cefr_level: 
 definitions:
 examples:

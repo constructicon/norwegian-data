@@ -1,9 +1,8 @@
 ---
 record: 1087
-name: "X være kjent med Y"
-UD_name: ''
+name: "X òg/også"
 illustration: |
-    Stoltenberg påpeker at Trump er godt kjent med det som er det norske standpunktet (NRK)
+    jeg òg, det også, i dag også
 cefr_level: 
 definitions:
 examples:

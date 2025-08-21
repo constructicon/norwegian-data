@@ -1,9 +1,8 @@
 ---
 record: 779
-name: "på egen hånd"
-UD_name: ''
+name: "i [TALL] [TID]"
 illustration: |
-    Når det gjelder meg så har jeg nok måttet gjøre det meste på egen hånd gjennom et langt liv (NoWaC)
+    i åtte timer
 cefr_level: 
 definitions:
 examples:

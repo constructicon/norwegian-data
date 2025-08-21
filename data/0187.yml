@@ -1,9 +1,8 @@
 ---
 record: 187
-name: "X gå i vasken"
-UD_name: ''
+name: "det bli ikke noe av X"
 illustration: |
-    Dette gjør du hvis flyturen går i vasken.
+    Det ble ikke noe av prosjektet.
 cefr_level: 
 definitions:
   - norwegian: |

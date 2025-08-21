@@ -1,9 +1,8 @@
 ---
 record: 334
-name: "for å si det slik/sånn"
-UD_name: ''
+name: "[NOE/NOEN] slå [NOEN] som [NOE]"
 illustration: |
-    Det ække no' vandring i trusa hjemme hos meg, for å si det sånn (Linn Skåber)
+    Foreleserne slo meg som gode akademikere
 cefr_level: 
 definitions:
 examples:

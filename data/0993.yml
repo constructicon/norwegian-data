@@ -1,9 +1,8 @@
 ---
 record: 993
-name: "X få overtak på Y"
-UD_name: ''
+name: "under [TID]-bestemt"
 illustration: |
-    Stå opp 04:00 hver dag for å få overtak på verden (NRK)
+    under krigen/debatten/behandlingen/innspillingen/møtet/svangerskapet/kampen/åpningen
 cefr_level: 
 definitions:
 examples:

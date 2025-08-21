@@ -1,9 +1,8 @@
 ---
 record: 279
-name: "X svi av Y på Z"
-UD_name: ''
+name: "[NOEN] (gå) i tenkeboksen (om [NOE])"
 illustration: |
-    Det er ikke alle forunt å kunne svi av 10 - 30 tusen på en fisketur (NoWaC)
+    Fortsatt i tenkeboksen om Oljefondet og infrastruktur (E24)
 cefr_level: 
 definitions:
 examples:

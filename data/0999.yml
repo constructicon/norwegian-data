@@ -1,9 +1,8 @@
 ---
 record: 999
-name: "X gå i oppløsning"
-UD_name: ''
+name: "[NOEN] bøte på [NOE]"
 illustration: |
-    Et lokalsamfunn risikerer å gå i oppløsning (NRK)
+    OpenAI er åpen om at det kan være utfordringer med Codex, og jobber med å bøte på mange av dem (forskersonen)
 cefr_level: 
 definitions:
 examples:

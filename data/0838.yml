@@ -1,9 +1,8 @@
 ---
 record: 838
-name: "X være på tuppa"
-UD_name: ''
+name: "[NOEN] være ferdig med [NOE]"
 illustration: |
-    Karakteristisk for denne typen depresjon er at en blir "på tuppa" og fremstår som hyperaktiv og overdrevent pratsom (NoWaC)
+    Anyway, tenk så godt det skal bli å bli ferdig med semestern (NoWaC)
 cefr_level: 
 definitions:
 examples:

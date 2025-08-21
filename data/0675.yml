@@ -1,9 +1,8 @@
 ---
 record: 675
-name: "X få Y ut av Z"
-UD_name: ''
+name: "[NOE/NOEN] gjøre [NOE] (klinkende) klart / [NOE/NOEN] gjøre det klart at LEDDSETNING"
 illustration: |
-    Hva har så vi som bor på Helgeland fått ut av gassvirksomheten som har funnet sted på Norne? (NoWaC)
+    Hillary Clinton gjorde det klinkende klart at menneskerettigheter ikke måtte stå i veien for problemer i klimadebatten (NoWaC)
 cefr_level: 
 definitions:
 examples:

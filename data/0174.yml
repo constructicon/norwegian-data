@@ -1,16 +1,15 @@
 ---
 record: 174
-name: "late som X"
-UD_name: ''
+name: "[NOE/NOEN] ende opp med å VERB-INF"
 illustration: |
-    Hun later som ingenting og prøver å være den blide jenten hun alltid har vært (NoWaC)
+    Trond Viggo og Marte Stokstad prøvde seg som stuntmenn og endte opp med å gi hverandre juling.
 cefr_level: 
 definitions:
 examples:
   - |
-       De gikk inn i 54 valgboder og lot som de var rasister (NoWaC)
+       Fekk 1200 kr å bruke på ka som helst, men endte opp med en pose boller og litt snop
   - |
-       DN kutter ut professoren som lot som han var reklamemann (NoWaC)
+       De svømmer inn i navelen din og ender opp med å komme ut munnen (NoWaC)
   - |
        Kanskje de bare later som om de ikke forstår det? (NoWaC)
 morphology:

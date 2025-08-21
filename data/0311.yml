@@ -1,9 +1,8 @@
 ---
 record: 311
-name: "X være/bli i stuss om Y"
-UD_name: ''
+name: "HELSETNING som om LEDDSETNING"
 illustration: |
-    Fetteren min blir plutselig i stuss om veien.
+    Han oppfører seg som om alt var i orden
 cefr_level: 
 definitions:
 examples:

@@ -1,9 +1,8 @@
 ---
 record: 727
-name: "X være ment som Y / X være Y ment"
-UD_name: ''
+name: "i det siste"
 illustration: |
-    Det var ment som en spøk / Det var ikke vondt ment
+    Det har vært bemerkelsesverdig stille rundt e-læring i det siste. Opplæringsrevolusjonen som man ventet for et par år tilbake har ikke kommet (NoWaC)
 cefr_level: 
 definitions:
 examples:

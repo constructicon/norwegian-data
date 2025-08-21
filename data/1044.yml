@@ -1,9 +1,8 @@
 ---
 record: 1044
-name: "X komme i retur"
-UD_name: ''
+name: "VERB etter forholdene"
 illustration: |
-    Blir så mye utgifter og mas med uavhentede pakker som kommer i retur (NoWaC)
+    Folk må kjøre etter forholdene (NRK)
 cefr_level: 
 definitions:
 examples:

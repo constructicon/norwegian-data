@@ -1,9 +1,8 @@
 ---
 record: 571
-name: "X være i ferd met å V"
-UD_name: ''
+name: "[NOEN] gå løs"
 illustration: |
-    Snøen er i fed med å smelte.
+    Går det en barmemorder løs i nabolaget? (NRK)
 cefr_level: 
 definitions:
 examples:

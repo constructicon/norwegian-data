@@ -1,9 +1,8 @@
 ---
 record: 818
-name: "ikke X heller"
-UD_name: ''
+name: "det offentlige rom"
 illustration: |
-    ikke jeg heller, ikke her heller, ikke kylling heller
+    Forvaltningsloven har strenge regler for hvilken informasjon som kan deles i det offentlige rom (NoWaC)
 cefr_level: 
 definitions:
 examples:

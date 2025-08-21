@@ -1,7 +1,6 @@
 ---
 record: 84
-name: "gå fra X til å V-INF"
-UD_name: ''
+name: "[NOE/NOEN] gå fra X til å VERB-INF"
 illustration: |
     Grønland har gått fra bortgjemt avkrok til å være på alles lepper.
 cefr_level: B2

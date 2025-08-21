@@ -1,9 +1,8 @@
 ---
 record: 994
-name: "ned til [MÅLENHET]"
-UD_name: ''
+name: "det være knyttet forventning/spenning/usikkerhet til X"
 illustration: |
-    Ved å lytte til elektromagnetisk støy kan nettverket av antenner fastslå jordens posisjon ned til millimeteren (NRK)
+    I forkant er det knyttet særlig stor spenning til saken øverst på side 65 i landsstyrets innstilling i program for perioden (NRK)
 cefr_level: 
 definitions:
 examples:

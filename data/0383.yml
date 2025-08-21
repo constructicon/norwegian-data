@@ -1,9 +1,8 @@
 ---
 record: 383
-name: "på grunn av (pga) X"
-UD_name: ''
+name: "[NOEN] være trygg på at LEDDSETNING"
 illustration: |
-    Oppløsningstid med katastrofal befolkningsreduksjon, mye på grunn av svartedauden.
+    Jeg er trygg på at skiforbundet vil gjøre sitt ytterste for å gjenopprette tilliten (NRK)
 cefr_level: 
 definitions:
 examples:

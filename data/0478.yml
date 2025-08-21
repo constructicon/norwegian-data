@@ -1,9 +1,8 @@
 ---
 record: 478
-name: "X føye seg inn i rekken av Y"
-UD_name: ''
+name: "[NOEN] ha [NOE] for hånden"
 illustration: |
-    Dette føyer seg i rekken av reaksjoner mot kritikere (NRK)
+    Det er kjekt å ha flaskeåpner for hånden
 cefr_level: 
 definitions:
 examples:

@@ -1,9 +1,8 @@
 ---
 record: 528
-name: "i kraft av X"
-UD_name: ''
+name: "[NOEN] få sansen for [NOE/NOEN]"
 illustration: |
-    Det vil si at politibetjentene ikke bare har autoritet i kraft av sin stilling men også i kraft av sine personlige egenskaper
+    Jeg har fått sansen for undervannsjakt og ser etter en harpun
 cefr_level: 
 definitions:
 examples:

@@ -1,9 +1,8 @@
 ---
 record: 969
-name: "X stå inne for Y"
-UD_name: ''
+name: "[NOE/NOEN] bli å VERB-INF"
 illustration: |
-    Påstår du noe konkret så må du kunne stå inne for det (NoWaC)
+    Hvis jeg ikke får jobb i Tromsø, blir jeg å søke i Canada (NRK)
 cefr_level: 
 definitions:
 examples:

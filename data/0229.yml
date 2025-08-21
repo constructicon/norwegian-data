@@ -1,9 +1,8 @@
 ---
 record: 229
-name: "X være sikker på (at) Y"
-UD_name: ''
+name: "[NOEN] gå med på [NOE]"
 illustration: |
-    Den er jeg sikker på at hun likte.
+    Han går med på planen.
 cefr_level: 
 definitions:
 examples:

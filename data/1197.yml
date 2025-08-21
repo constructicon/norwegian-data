@@ -1,9 +1,8 @@
 ---
 record: 1197
-name: "[NOE] gå i SUBSTANTIV (resultat)"
-UD_name: ''
+name: "[NOE] se ut til [NOE]"
 illustration: |
-    gå i oppløsning/oppfyllelse/orden/vasken/dass/glemmeboka/lufta (NoWaC)
+    Effektene kan imidlertid se ut til å være noe sterkere for de som har studert i utlandet (NoWaC) / Det så ut til at Obama skulle utklasse McCain totalt, inntil for noen få uker siden (NoWaC)
 cefr_level: 
 definitions:
 examples:

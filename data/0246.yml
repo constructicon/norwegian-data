@@ -1,7 +1,6 @@
 ---
 record: 246
-name: "i disse [TIDSUTTRYKK]"
-UD_name: ''
+name: "i disse [TID]-flertall"
 illustration: |
     i disse dager, i disse (krise/jule/valg/influensa)tider, i disse år
 cefr_level: 

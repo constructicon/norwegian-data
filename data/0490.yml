@@ -1,9 +1,8 @@
 ---
 record: 490
-name: "X skatte til Y"
-UD_name: ''
+name: "[NOEN] ta hånd om [NOE/NOEN]"
 illustration: |
-    Pensjonister som ikke skatter til Norge
+    Kommunale begravelser er begravelser som tas hånd om av det offentlige
 cefr_level: 
 definitions:
 examples:

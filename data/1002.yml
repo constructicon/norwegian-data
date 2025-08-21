@@ -1,9 +1,8 @@
 ---
 record: 1002
-name: "X strekke seg (langt) for å Cl"
-UD_name: ''
+name: "[NOEN] være tilstede"
 illustration: |
-    Om nokon har gode idear som kan løfte fram denne nasjonalt unike samlinga utan å belaste kommuneøkonomien, så vil vi strekke oss langt for å bidra (NRK)
+    Jeg har et ønske om at Norge skal være tilstede der debattene foregår, løsningene utformes og beslutningene om fremtidens Europa tas (NoWaC)
 cefr_level: 
 definitions:
 examples:

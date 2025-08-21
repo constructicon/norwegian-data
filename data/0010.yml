@@ -1,7 +1,6 @@
 ---
 record: 10
-name: "for det første, ... for det andre, ..."
-UD_name: ''
+name: "for det første, X for det andre, Y"
 illustration: |
     For det første, har vi et sterkt team. For det andre, har vi en klar strategi.
 cefr_level: A2

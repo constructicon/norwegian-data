@@ -1,9 +1,8 @@
 ---
 record: 726
-name: "hvordan det?"
-UD_name: ''
+name: "[NOEN] hoppe over [NOE]"
 illustration: |
-    -Skal du dra nå? -Ja, hvordan det? -Kan jeg få sitte på?
+    Jeg har en tendens til å hoppe over frokosten, eller utsette den, og heller spise en gedigen lunsj (NoWaC)
 cefr_level: 
 definitions:
 examples:

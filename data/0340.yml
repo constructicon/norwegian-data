@@ -1,9 +1,8 @@
 ---
 record: 340
-name: "X smykke seg med Y"
-UD_name: ''
+name: "[NOEN] ta [NOE] i betraktning"
 illustration: |
-    Noen er flinke til å smykke seg med de riktige politiske meningene
+    Dagens lærersituasjon tatt i betraktning
 cefr_level: 
 definitions:
 examples:

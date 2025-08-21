@@ -1,9 +1,8 @@
 ---
 record: 768
-name: "X ta inn over seg Y"
-UD_name: ''
+name: "VERB hver for seg"
 illustration: |
-    oen mener investorer ikke har tatt inn over seg endringene i verdensøkonomien (NoWaC)
+    De betaler hver for seg
 cefr_level: 
 definitions:
 examples:

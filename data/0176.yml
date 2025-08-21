@@ -1,13 +1,10 @@
 ---
 record: 176
-name: "det er sant (at)"
-UD_name: ''
+name: "[NOEN] ta seg (selv) i å VERB-INF"
 illustration: |
-    A: Det er et lite sted. B: Det er sant.
+    Hun kan ta seg i å savne sjølufta når hun besøker barndomsbygda.
 cefr_level: 
 definitions:
-  - english: |
-       Focal construction
 examples:
 morphology:
   - ~

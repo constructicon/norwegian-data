@@ -1,12 +1,17 @@
 ---
 record: 284
-name: "hverken X eller Y"
-UD_name: ''
+name: "[NOEN] bryte ut i VERBALSUBSTANTIV"
 illustration: |
-    Hverken jeg eller samboer er kristne, så hvorfor skal vi da melde henne inn i Den Norske Kirke? (NoWaC)
+    Ordføreren brøt ut i sang foran folkehavet (NRK)
 cefr_level: 
 definitions:
 examples:
+  - |
+       Stein bryter ut i latter (NoWaC)
+  - |
+       Elevene ved Bergen Katedralskole brøt ut i jubel og gledestårer da deres eksamen i sidemål ble avlyst (NoWaC)
+  - |
+       Salen bryter ut i applaus og det er stor stemning (NoWaC)
 morphology:
   - ~
 syntactic_type_of_construction:

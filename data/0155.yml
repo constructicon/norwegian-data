@@ -1,12 +1,13 @@
 ---
 record: 155
-name: "kjempe-X"
-UD_name: ''
+name: "små-ADJEKTIV/VERB/SUBSTANTIV"
 illustration: |
-    kjempejobb, kjempesjanse, kjempesuksess / kjempebra, kjempefin, kjempegod / kjempefort, kjempesakte
+    Han er småsyk. Småsliten etter første arbeidsdag. Småløpe. Småspise. Småting. Smågodt.
 cefr_level: 
 definitions:
 examples:
+  - |
+       De småløp ned til stasjonen. Småbarna småspiste smågodt.
 morphology:
   - ~
 syntactic_type_of_construction:

@@ -1,9 +1,8 @@
 ---
 record: 1129
-name: "[NOEN] være/bli ADJEKTIV på at LEDDSETNING"
-UD_name: ''
+name: "[NOEN] følge opp [NOE]"
 illustration: |
-    jeg er sikker/oppmerksom/klar/trygg/tydelig/obs/bevisst/nøye på at det er slik
+    Det private kan ta på seg oppgaver som de så ikke er i stand til å følge opp hvis alvorlige komplikasjoner skulle tilkomme (NRK)
 cefr_level: 
 definitions:
 examples:

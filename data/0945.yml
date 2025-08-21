@@ -1,9 +1,8 @@
 ---
 record: 945
-name: "X skrike etter Y"
-UD_name: ''
+name: "[NOEN] vri og vende/vrenge på [NOE]"
 illustration: |
-    Bransjen skrik etter folk (NRK)
+    Uansett hvordan man vrir og vender på det er det striptease vi snakker om (NRK)
 cefr_level: 
 definitions:
 examples:

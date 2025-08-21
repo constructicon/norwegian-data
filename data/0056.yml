@@ -1,7 +1,6 @@
 ---
 record: 56
-name: "(det er) bare å V-INF"
-UD_name: ''
+name: "(det være) bare å VERB-INF"
 illustration: |
     Bare å komme.
 cefr_level: A2

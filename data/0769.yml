@@ -1,9 +1,8 @@
 ---
 record: 769
-name: "X legge Y bak seg"
-UD_name: ''
+name: "[NOEN] være til stede [STED]"
 illustration: |
-    ... og så legger vi det bak oss.
+    Det var 100 000 personer til stede på demonstrasjonene
 cefr_level: 
 definitions:
 examples:

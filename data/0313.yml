@@ -1,9 +1,8 @@
 ---
 record: 313
-name: "X være Adj-Comp enn det pleier å være"
-UD_name: ''
+name: "[NOE] sette spor i [NOE/NOEN]"
 illustration: |
-    bråket fra ungene er verre enn det pleier å være
+    Vi har ikke satt mange spor i historiebøkene.
 cefr_level: 
 definitions:
 examples:

@@ -1,9 +1,8 @@
 ---
 record: 802
-name: "hver for seg"
-UD_name: ''
+name: "[NOEN] stå med skjegget i postkassa"
 illustration: |
-    De betaler hver for seg
+    De fleste amerikanske, ble steinrike, mens resten av europeisk kapital satt med skjegget i postkassa (NoWaC)
 cefr_level: 
 definitions:
 examples:

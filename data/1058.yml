@@ -1,9 +1,8 @@
 ---
 record: 1058
-name: "X være/bli den nye Y"
-UD_name: ''
+name: "[NOE] gå som planlagt"
 illustration: |
-    Kan fisk bli den nye grandisen? (forskersonen.no)
+    Dersom alt går som planlagt vil E10 i Lofoten ved Lyngvær åpnes fredag ettermiddag (NRK)
 cefr_level: 
 definitions:
 examples:

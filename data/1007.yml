@@ -1,9 +1,8 @@
 ---
 record: 1007
-name: "X si seg fornøyd (med Y) / X seie seg nøgd (med Y)"
-UD_name: ''
+name: "det være ikke [NOEN]"
 illustration: |
-    Jobben er utfordrande. Du kan aldri seie deg fornøgd (NRK)
+    Jeg vurderte å kjøpe Louis Vuitton-sko, men det er ikke meg (NRK) Trøndersk variant: "det fe (?) itj mæ"
 cefr_level: 
 definitions:
 examples:

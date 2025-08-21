@@ -1,9 +1,8 @@
 ---
 record: 1054
-name: "X bøte på Y"
-UD_name: ''
+name: "[NOEN] være vitne til [NOE]"
 illustration: |
-    OpenAI er åpen om at det kan være utfordringer med Codex, og jobber med å bøte på mange av dem (forskersonen)
+    Det gir oss en pekepinn på at den gemyttlige tonen vi var vitne til, ikke bare var et spill for galleriet (NRK)
 cefr_level: 
 definitions:
 examples:

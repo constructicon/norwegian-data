@@ -1,9 +1,8 @@
 ---
 record: 864
-name: "X være et sykdomstegn"
-UD_name: ''
+name: "[NOEN] få seg til å VERB-INF"
 illustration: |
-    At sex som innebærer helsemessig risiko eller vold, blir bagatellisert, forventet, normalisert eller påtvunget – det er et sykdomstegn (NRK)
+    Det er rett og slett helt utrolig hva folk kan få seg til å stjele (NoWaC)
 cefr_level: 
 definitions:
 examples:

@@ -1,9 +1,8 @@
 ---
 record: 460
-name: "X arbeide som Y"
-UD_name: ''
+name: "[NOEN] barke sammen med [NOEN] / [NOEN] og [NOEN] barke sammen"
 illustration: |
-    Jeg arbeidet som advokat i Ghana. Det var en vanskelig situasjon. (Ny i Norge A1)
+    Flere steder barket demonstrantene sammen med politiet (NRK) / Demonstranter og politi barket sammen utenfor den israelske ambassaden (NoWaC)
 cefr_level: 
 definitions:
 examples:

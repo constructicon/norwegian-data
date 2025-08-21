@@ -1,9 +1,8 @@
 ---
 record: 544
-name: "X forplikte seg til Y"
-UD_name: ''
+name: "VERB ved behov"
 illustration: |
-    Landene forpliktet seg til å melde inn et klimamål for hvordan de skal bidra til at verden når målene i Parisavtalen hvert femte år
+    Slike legemidler kun skal brukes ved behov.
 cefr_level: 
 definitions:
 examples:

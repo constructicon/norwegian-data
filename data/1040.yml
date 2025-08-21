@@ -1,9 +1,8 @@
 ---
 record: 1040
-name: "X gå over"
-UD_name: ''
+name: "[NOEN] våkne opp til [NOE]"
 illustration: |
-    På sykehuset trodde legene først at hun bare hadde tåkesyn, og at det ville gå over av seg selv (NRK)
+    Dette våknet nordlendingene opp til i morges (NRK)
 cefr_level: 
 definitions:
 examples:

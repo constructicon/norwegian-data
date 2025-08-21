@@ -1,9 +1,8 @@
 ---
 record: 639
-name: "maken/makan til X"
-UD_name: ''
+name: "det komme an på ([NOE])"
 illustration: |
-    Maken til flaks! Maken til masete dame! Maken til dårlig brøyting skal man lete lenge etter! Makan!
+    Er alt lov i en fight? Ja, nei og det kommer an på (NoWaC)
 cefr_level: 
 definitions:
 examples:

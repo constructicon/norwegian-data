@@ -1,9 +1,8 @@
 ---
 record: 747
-name: "X gå ADJ / det gå ADJ med X"
-UD_name: ''
+name: "[NOEN] ta/kle på seg ([NOE])"
 illustration: |
-    Hvordan går det med deg?
+    Det er en menneskerett å kunne få stå opp om morgenen å kle på seg de klærne man ønsker (NoWaC)
 cefr_level: 
 definitions:
 examples:

@@ -1,9 +1,8 @@
 ---
 record: 928
-name: "X trekke [dra?] veksler på Y"
-UD_name: ''
+name: "[NOEN] holde foredrag om [NOE/NOEN]"
 illustration: |
-    jeg skal ikke dra veksler på leserens tålmodighet ved å ramse opp alt det som moret oss. (Dag Solstad)
+    Vigdis Austrheim holder stadig foredrag om hvordan man kan lede flere generasjoner samtidig (NRK)
 cefr_level: 
 definitions:
 examples:

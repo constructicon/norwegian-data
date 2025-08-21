@@ -1,9 +1,8 @@
 ---
 record: 1192
-name: "[NOE] gå ut på å VERB-INF / at LEDDSETNING"
-UD_name: ''
+name: "en rekke X"
 illustration: |
-    En tilnærming som gikk ut på å trekke ned tempoet i kampen (NRK)
+    På sin reise hjem møter de en rekke andre reisende, blant dem et skuespillerfølge (NoWaC)
 cefr_level: 
 definitions:
 examples:

@@ -1,9 +1,8 @@
 ---
 record: 1188
-name: "[NOEN] følge opp [NOE]"
-UD_name: ''
+name: "fra [TID] til [TID]"
 illustration: |
-    Det private kan ta på seg oppgaver som de så ikke er i stand til å følge opp hvis alvorlige komplikasjoner skulle tilkomme (NRK)
+    med utgangspunkt i data samlet inn fra juli i fjor fjor til juni i år (NoWaC)
 cefr_level: 
 definitions:
 examples:

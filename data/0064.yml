@@ -1,9 +1,8 @@
 ---
 record: 64
-name: "det V-s"
-UD_name: ''
+name: "det VERB-s"
 illustration: |
-    Det festes og drikkes over en lav sko i løpet av de to fadderukene.
+    Det festes og drikker over en lav sko i løpet av de to fadderukene.
 cefr_level: B2
 definitions:
   - norwegian: |

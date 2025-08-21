@@ -1,9 +1,8 @@
 ---
 record: 1224
-name: "[NOEN] miste troen på [NOE]"
-UD_name: ''
+name: "[NOEN] ha/få/gi/holde oversikt over [NOE]"
 illustration: |
-    Har helt mista trua
+    Det kan være vanskelig å få oversikt over dette emnet
 cefr_level: 
 definitions:
 examples:

@@ -1,9 +1,8 @@
 ---
 record: 1090
-name: "[NOEN] jobbe som [YRKE]"
-UD_name: ''
+name: "[NOE] følge med [NOE]"
 illustration: |
-    Jeg jobber som lærer
+    Med dagens krav til komfort, følger vei, vann og strøm med (NRK)
 cefr_level: 
 definitions:
 examples:

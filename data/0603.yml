@@ -1,9 +1,8 @@
 ---
 record: 603
-name: "X sørge for Y"
-UD_name: ''
+name: "[NOEN] stå av stormen"
 illustration: |
-    Med denne løsningen sørger vi for et godt finsk forsvar de neste årene (NRK)
+    Eldre forskere med fast stilling mener de vil klare å stå av stormen (Khrono)
 cefr_level: 
 definitions:
 examples:

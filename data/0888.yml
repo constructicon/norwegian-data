@@ -1,9 +1,8 @@
 ---
 record: 888
-name: "snakk om X!"
-UD_name: ''
+name: "[NOEN] gi avkall på [NOE]"
 illustration: |
-    Snakk om å sitte i glasshus! (NoWaC)
+    Han ga avkall på arven etter foreldrene.
 cefr_level: 
 definitions:
 examples:

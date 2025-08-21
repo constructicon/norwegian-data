@@ -1,9 +1,8 @@
 ---
 record: 1088
-name: "X spekulere i Y"
-UD_name: ''
+name: "[NOEN] legge seg på en linje (der/som LEDDSETNING)"
 illustration: |
-    Stoltenberg vil ikke spekulere i Trump-reaksjon (NRK)
+    Linja Trump har lagt seg på vil være selvødeleggende (Khrono)
 cefr_level: 
 definitions:
 examples:

@@ -1,9 +1,8 @@
 ---
 record: 1219
-name: "[NOE/N] gå over streken"
-UD_name: ''
+name: "[NOEN] gå ned i vekt"
 illustration: |
-    Kritikken mot Martin Ødegaard går langt over streken (NRK)
+    Jeg prøver å gå ned i vekt
 cefr_level: 
 definitions:
 examples:

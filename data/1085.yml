@@ -1,9 +1,8 @@
 ---
 record: 1085
-name: "en smak av X"
-UD_name: ''
+name: "begge deler"
 illustration: |
-    Det blir ei veldig fin og vårleg veke som vil gi oss ein smak av sommar (NRK)
+    I tillegg er det både jobb, skole eller begge deler (NoWaC)
 cefr_level: 
 definitions:
 examples:

@@ -1,9 +1,8 @@
 ---
 record: 1073
-name: "X gjøre Y klart"
-UD_name: ''
+name: "VERB med måte"
 illustration: |
-    Hun gjør det klart, i likhet med Tveit, at ordningen ikke skal begrenses til forskere fra USA (NRK)
+    En ting er å lage godt øl, men det skal også drikkes med måte (NoWaC)
 cefr_level: 
 definitions:
 examples:

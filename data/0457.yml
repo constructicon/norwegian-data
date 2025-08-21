@@ -1,9 +1,8 @@
 ---
 record: 457
-name: "(Unnskyld), hvor finner [pronomen] [substantiv]"
-UD_name: ''
+name: "[NOEN] være X etter [NOE]"
 illustration: |
-    Unnskyld, hvor finner vi egg? (Ny i Norge A1)
+    Hun er gal etter sjokolade, han er en hund etter øl, folk var desperate etter
 cefr_level: 
 definitions:
 examples:

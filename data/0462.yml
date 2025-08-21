@@ -1,9 +1,8 @@
 ---
 record: 462
-name: "bli med og + verb, presens"
-UD_name: ''
+name: "[NOEN] føye seg inn i rekken av [NOE]"
 illustration: |
-    Blir du med og spiller fotball? (Ny i Norge A2)
+    Dette føyer seg i rekken av reaksjoner mot kritikere (NRK)
 cefr_level: 
 definitions:
 examples:

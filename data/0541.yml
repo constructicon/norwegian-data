@@ -1,9 +1,8 @@
 ---
 record: 541
-name: "trekke forhastede konklusjoner/slutninger"
-UD_name: ''
+name: "[NOEN] vite aldri"
 illustration: |
-    Imidlertid må man være forsiktig med å trekke forhastede konklusjoner ut fra denne typen undersøkelser (NoWaC)
+    Du vet aldri. Man vet jo aldri.
 cefr_level: 
 definitions:
 examples:

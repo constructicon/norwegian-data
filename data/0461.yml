@@ -1,9 +1,8 @@
 ---
 record: 461
-name: "bli med + sted"
-UD_name: ''
+name: "[NOEN] gå i bresjen for [NOE]"
 illustration: |
-    Blir du med på kino? Vi kan spørre om hun vil bli med på hyttetur. (Ny i Norge A2)
+    Det er særlig studenter som har gått i bresjen for å protestere (NRK)
 cefr_level: 
 definitions:
 examples:

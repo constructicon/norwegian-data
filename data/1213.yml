@@ -1,9 +1,8 @@
 ---
 record: 1213
-name: "[NOEN-agent] VERB PARTIKKEL [NOE/N]"
-UD_name: ''
+name: "[NOEN] gi/få beskjed om at LEDDSETNING"
 illustration: |
-    Jeg har lastet ned filen
+    Vi ga beskjed om at dette var en praksis vi ikke godtok (NoWaC)
 cefr_level: 
 definitions:
 examples:

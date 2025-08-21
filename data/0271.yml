@@ -1,9 +1,8 @@
 ---
 record: 271
-name: "X se gjennom fingrene med Y"
-UD_name: ''
+name: "[NOEN] bli snytt for [NOE]"
 illustration: |
-    Vi kan se gjennom fingrene med at Rooney ble snytt for en helt legitim scoring (NoWaC)
+    Rooney ble snytt for en helt legitim scoring (NoWaC)
 cefr_level: 
 definitions:
 examples:

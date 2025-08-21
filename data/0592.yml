@@ -1,9 +1,8 @@
 ---
 record: 592
-name: "X komme (seg) utenom Y"
-UD_name: ''
+name: "det spille ikke noen rolle (om LEDDSETNING) / det spille ingen rolle (om LEDDSETNING)"
 illustration: |
-    Dette kan man komme seg utenom, hevder Donald Trump (NRK)
+    Hadde han ikke gjort det, ville det ikke spilt noen rolle om han var kjendis (NoWaC)
 cefr_level: 
 definitions:
 examples:

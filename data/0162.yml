@@ -1,9 +1,8 @@
 ---
 record: 162
-name: "målet med X er å V / er at Cl"
-UD_name: ''
+name: "V til SUBSTANTIV-s"
 illustration: |
-    Målet med animasjonsserien er å skape trygge klassemiljøer og forebygge og redusere mobbing på skolen og på skoleveien.
+    gå til sengs, dra til fjells, komme til bords, dra til sjøs
 cefr_level: 
 definitions:
 examples:

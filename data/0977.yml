@@ -1,9 +1,8 @@
 ---
 record: 977
-name: "X skal ikke være mulig"
-UD_name: ''
+name: "[NOEN] sløse bort [NOE] / [NOEN] sløse [NOE] bort"
 illustration: |
-    Det skal ikke være mulig i 2025 å måtte fronte en sånn sak (NRK)
+    På den ene siden er vi redde for å sløse den bort...
 cefr_level: 
 definitions:
 examples:

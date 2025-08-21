@@ -1,9 +1,8 @@
 ---
 record: 909
-name: "X i nærheten av Y"
-UD_name: ''
+name: "til POSSESSIV SUBSTANTIV"
 illustration: |
-    En park i nærheten av sentrum (NoWaC)
+    til manges glede, til min store forbløffelse, til hans behag
 cefr_level: 
 definitions:
 examples:

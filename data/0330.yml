@@ -1,9 +1,8 @@
 ---
 record: 330
-name: "så X som mulig"
-UD_name: ''
+name: "for å si det X"
 illustration: |
-    så snart/fort/raskt/mye/mange/tidlig/langt/lenge som mulig
+    for å si det sånn/slik/pent/forsiktig/mildt/enkelt/diplomatisk/brutalt/rett ut
 cefr_level: 
 definitions:
 examples:

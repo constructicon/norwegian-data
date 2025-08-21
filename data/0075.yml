@@ -1,7 +1,6 @@
 ---
 record: 75
-name: "på [ANTALL] [TID]"
-UD_name: ''
+name: "på [TALL] [TID]"
 illustration: |
     Det hele var over på fem minutter.
 cefr_level: A2

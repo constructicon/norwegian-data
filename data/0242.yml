@@ -1,9 +1,8 @@
 ---
 record: 242
-name: "X slippe ADJ unna"
-UD_name: ''
+name: "[NOEN] slippe ADJEKTIV unna"
 illustration: |
-    slippe billig/lett/hel/helskinnet/uskadet unna
+    slippe billig/lett/hel/helskinnet/uskadet unna, Min største frykt er jo at de skal slippe billig unna. (NRK)
 cefr_level: 
 definitions:
 examples:

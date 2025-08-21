@@ -1,9 +1,8 @@
 ---
 record: 68
-name: "holde på å V-INF (pågående)"
-UD_name: ''
+name: "[NOEN] holde på å VERB-INF (avbrutt handling)"
 illustration: |
-    Jeg holder på å rydde i klesskapet.
+    Jeg holdt på å dø av skam.
 cefr_level: A2
 definitions:
   - norwegian: |

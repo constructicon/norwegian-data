@@ -1,9 +1,8 @@
 ---
 record: 1152
-name: "hva være [NOE] for no(e)?"
-UD_name: ''
+name: "[NOEN-agent] VERB [NOE/NOEN] PARTIKKEL"
 illustration: |
-    Hva er pinse for noe? Hva er det for noe?
+    Jeg har lastet filen ned
 cefr_level: 
 definitions:
 examples:

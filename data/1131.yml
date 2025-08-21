@@ -1,9 +1,8 @@
 ---
 record: 1131
-name: "[NOEN] være ADJEKTIV/VERB-PARTISIPP med [NOE(N)]"
-UD_name: ''
+name: "vel vitende"
 illustration: |
-    jeg er fornøyd/kjent/tjent med det, jeg er kjent med ham
+    Det er et problem at leger kan løpe fra sine faglige og økonomiske ansvar, vel vitende om at det er du som må plukke opp regninga (NRK)
 cefr_level: 
 definitions:
 examples:

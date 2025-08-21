@@ -1,9 +1,8 @@
 ---
 record: 1117
-name: "[NOE] gå som planlagt"
-UD_name: ''
+name: "([NOEN] sy) puter under armene på [NOEN]"
 illustration: |
-    Dersom alt går som planlagt vil E10 i Lofoten ved Lyngvær åpnes fredag ettermiddag (NRK)
+    Da blir det puter under armene på de som ikke trenger det (Debatten)
 cefr_level: 
 definitions:
 examples:

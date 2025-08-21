@@ -1,9 +1,8 @@
 ---
 record: 1071
-name: "X sette Y ned / X sette ned Y"
-UD_name: ''
+name: "[NOEN] være ADJEKTIV/VERB-PARTISIPP med [NOE/NOEN]"
 illustration: |
-    Æ fikk en alvorsprat fra mora mi. Hu satt mæ ned og sa at æ har pottensial (NRK)
+    jeg er fornøyd/kjent/tjent med det, jeg er kjent med ham
 cefr_level: 
 definitions:
 examples:

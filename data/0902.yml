@@ -1,9 +1,8 @@
 ---
 record: 902
-name: "X være sikker på Y / X være sikker på at Cl"
-UD_name: ''
+name: "til syvende/sjuende og sist"
 illustration: |
-    Hvis du er sikker på at e-postadressen du oppga er riktig, ta kontakt med administratoren (NoWaC)
+    Det er status og økonomi det handlar om til sjuande og sist (NRK)
 cefr_level: 
 definitions:
 examples:

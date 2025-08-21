@@ -1,9 +1,8 @@
 ---
 record: 264
-name: "X være på sitt Adj-comp"
-UD_name: ''
+name: "[NOE/NOEN] komme GERUNDIUM"
 illustration: |
-    Byen var på sitt lyseste, grønneste.
+    Like før vi nådde frem til målet, kom det kjørende en turistbuss med utenlandske skilter.
 cefr_level: 
 definitions:
 examples:

@@ -1,9 +1,8 @@
 ---
 record: 1042
-name: "X bidra med Y"
-UD_name: ''
+name: "[NOEN] ta til takke med [NOE]"
 illustration: |
-    Her kan Norge også bidra med erfaringer vi har (NRK)
+    Nord-Norge må ta til takke med snø og kuldegrader (NRK)
 cefr_level: 
 definitions:
 examples:

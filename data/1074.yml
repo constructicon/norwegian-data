@@ -1,9 +1,8 @@
 ---
 record: 1074
-name: "X være i forsetet/førersetet/framsetet"
-UD_name: ''
+name: "VERB tett på [NOEN]"
 illustration: |
-    UIB er særlig kjent for sterk klimaforskning og også for mye forskning på global helse, der amerikanerne er i framsetet (NRK)
+    Du får jobbe tett på innbyggerne (NRK)
 cefr_level: 
 definitions:
 examples:

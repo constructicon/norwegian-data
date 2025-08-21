@@ -1,9 +1,8 @@
 ---
 record: 987
-name: "inn mot X"
-UD_name: ''
+name: "[NOE] gå over"
 illustration: |
-    inn mot neste års renn
+    På sykehuset trodde legene først at hun bare hadde tåkesyn, og at det ville gå over av seg selv (NRK)
 cefr_level: 
 definitions:
 examples:

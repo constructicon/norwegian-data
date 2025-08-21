@@ -1,9 +1,8 @@
 ---
 record: 456
-name: "være født i [årstall]"
-UD_name: ''
+name: "[NOE/NOEN] være befengt med [NOE]"
 illustration: |
-    Han er født i 1997. (Ny i Norge A1)
+    At syklister har lov til å bruke fortauet er befengt med så mange forbehold at jeg tror tanken bak det er at unger skal kunne sykle der (NoWaC)
 cefr_level: 
 definitions:
 examples:

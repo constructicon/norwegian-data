@@ -1,9 +1,8 @@
 ---
 record: 534
-name: "X være i villrede om Y"
-UD_name: ''
+name: "[NOEN] gå fra SUBSTANTIV"
 illustration: |
-    Forbrukerne er i villrede om hva som er bærekraftig emballasje
+    Han gikk fra vettet/forstanden
 cefr_level: 
 definitions:
 examples:

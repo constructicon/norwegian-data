@@ -1,9 +1,8 @@
 ---
 record: 591
-name: "for å si det ADJ"
-UD_name: ''
+name: "[NOEN] se [NOE/NOEN] VERB"
 illustration: |
-    for å si det pent/forsiktig/mildt/enkelt/diplomatisk/brutalt/rett ut
+    Industrikommunen har på starten av 2000-talet sett både arbeidsplassar og innbyggjarar forsvinne (NRK)
 cefr_level: 
 definitions:
 examples:

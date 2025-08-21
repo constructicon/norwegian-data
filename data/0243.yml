@@ -1,7 +1,6 @@
 ---
 record: 243
-name: "X grue seg til Y"
-UD_name: ''
+name: "[NOEN] grue seg til [NOE]"
 illustration: |
     Det har tatt halvannet år fra drapet til dagen de har sett frem til, og gruet seg veldig til, kommer. (NRK)
 cefr_level: 

@@ -1,9 +1,8 @@
 ---
 record: 1104
-name: "inntil videre"
-UD_name: ''
+name: "[NOEN] stå over [NOE]"
 illustration: |
-    I Bodø har Reis Nordland innstilt bybussene på linje 1, 2 og 3 inntil videre (NRK)
+    Sentralbanksjefen står over renteframleggelsen torsdag (NTB)
 cefr_level: 
 definitions:
 examples:

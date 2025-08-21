@@ -1,9 +1,8 @@
 ---
 record: 693
-name: "X komme av Y / at Cl"
-UD_name: ''
+name: "[NOE] være ment som SUBSTANTIV"
 illustration: |
-    En del kjenner seg ikke igjen i lønnsveksten som vises i lønnsstatistikkene. Det kommer av at utviklingen i gjennomsnittslønnen i løpet av et år er satt sammen av lønnseffekt og sammensetningseffekt (SSB)
+    Det var ment som en spøk
 cefr_level: 
 definitions:
 examples:

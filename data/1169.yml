@@ -1,9 +1,8 @@
 ---
 record: 1169
-name: "[NOEN] ta [NOE] på kornet"
-UD_name: ''
+name: "[NOEN] ha anelse om [NOE]"
 illustration: |
-    Det norske hus tar nordmenns fordommer på kornet (NRK)
+    Jeg har ingen anelse om hva du snakker om (NRK)
 cefr_level: 
 definitions:
 examples:

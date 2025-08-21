@@ -1,9 +1,8 @@
 ---
 record: 563
-name: "en etter en VP"
-UD_name: ''
+name: "la [NOE/NOEN] VERB-INF"
 illustration: |
-    En etter en vender seg vekk.
+    La elva leve
 cefr_level: 
 definitions:
 examples:

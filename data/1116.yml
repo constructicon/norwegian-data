@@ -1,9 +1,8 @@
 ---
 record: 1116
-name: "[NOE(N)] ikke ha en skramme"
-UD_name: ''
+name: "[NOEN] følge med på [NOE]"
 illustration: |
-    Vi ropte og spurte om det gikk bra, og fikk til svar at han ikke hadde en skramme (NRK)
+    Her følger vi nøye med på hver brødskive som blir smurt (NRK)
 cefr_level: 
 definitions:
 examples:

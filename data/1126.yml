@@ -1,9 +1,8 @@
 ---
 record: 1126
-name: "[NOE(N)] være/bli slutten på [NOE(N)]"
-UD_name: ''
+name: "[NOEN] klare ikke å motstå fristelsen (til å VERB-INF)"
 illustration: |
-    Så det ble slutten på uteputene våre (NoWaC)
+    Til tross for advarsler på internett om å spise koikarpe, klarte ikke vennegjengen å motstå fristelsen (NRK)
 cefr_level: 
 definitions:
 examples:

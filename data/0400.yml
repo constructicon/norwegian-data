@@ -1,9 +1,8 @@
 ---
 record: 400
-name: "X gå ut over Y"
-UD_name: ''
+name: "[NOEN] kunne få SUBSTANTIV"
 illustration: |
-    Går dessverre utover hele den norske idretten (NRK)
+    Kunne jeg fått en kopp kaffe? / Mange pasienter får hjerteinfarkt
 cefr_level: 
 definitions:
 examples:

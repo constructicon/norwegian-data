@@ -1,9 +1,8 @@
 ---
 record: 961
-name: "X høre etter"
-UD_name: ''
+name: "[NOE] være en pekepinn på om LEDDSETNING"
 illustration: |
-    Instruktørene har kustus på ungene, og lærer dem å høre etter når beskjeder blir gitt (NoWaC)
+    Når du har tatt valget, er folkene rundt deg en viktig pekepinn på om du er på rett sted (NRK)
 cefr_level: 
 definitions:
 examples:

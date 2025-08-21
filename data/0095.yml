@@ -1,9 +1,8 @@
 ---
 record: 95
-name: "så og si"
-UD_name: ''
+name: "så og si X"
 illustration: |
-    Så og si alle pengene mine går til det
+    Så og si alle pengene mine går til det.
 cefr_level: 
 definitions:
 examples:

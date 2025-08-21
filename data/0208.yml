@@ -1,9 +1,8 @@
 ---
 record: 208
-name: "V til V"
-UD_name: ''
+name: "HELSETNING til LEDDSETNING"
 illustration: |
-    Jeg jobber til jeg stuper.
+    Jeg jobber til jeg stuper / Han springer til han ikke orker mer.
 cefr_level: 
 definitions:
 examples:

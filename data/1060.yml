@@ -1,9 +1,8 @@
 ---
 record: 1060
-name: "X vekke oppsikt"
-UD_name: ''
+name: "[NOE/NOEN] være en del av [NOE]"
 illustration: |
-    Ung aleinemor vekker oppsikt etter EM-bragd (NRK)
+    Vi i brannvesenet er ikke en del av kommunen (NRK)
 cefr_level: 
 definitions:
 examples:

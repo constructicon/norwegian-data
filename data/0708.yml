@@ -1,9 +1,8 @@
 ---
 record: 708
-name: "X være Y (knekkende) likegyldig"
-UD_name: ''
+name: "[NOE/NOEN] bære preg av [NOE]"
 illustration: |
-    Det er meg knekkende likegyldig hva andre synes i forhold til kjekk og pen og det der.. (sukker.no)
+    Statsbudsjettet bærer preg av en regjering som er i ferd med å gå tom for ideer (NoWaC)
 cefr_level: 
 definitions:
 examples:

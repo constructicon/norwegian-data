@@ -1,9 +1,8 @@
 ---
 record: 1230
-name: "[NOEN] ha anelse om [NOE]"
-UD_name: ''
+name: "[NOEN] ta kontakt (med [NOEN])"
 illustration: |
-    Jeg har ingen anelse om hva du snakker om (NRK)
+    Hvis du ønsker å starte en brukergruppe må du ta kontakt med administratoren (NoWaC)
 cefr_level: 
 definitions:
 examples:

@@ -1,9 +1,8 @@
 ---
 record: 545
-name: "X være nødt til å V"
-UD_name: ''
+name: "[NOEN] ha behov for [NOE]"
 illustration: |
-    Jeg var nødt til å gjøre noe med livet mitt
+    Mennesker har behov for mat, og for å være sammen med andre mennesker
 cefr_level: 
 definitions:
 examples:

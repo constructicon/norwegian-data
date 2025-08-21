@@ -1,9 +1,8 @@
 ---
 record: 1016
-name: "X bli å finne/se [STED]"
-UD_name: ''
+name: "[NOEN] gjøre [NOE] klart"
 illustration: |
-    Den sjarmerende bybilen blir å se på bilmessen i Genève (NoWaC)
+    Hun gjør det klart, i likhet med Tveit, at ordningen ikke skal begrenses til forskere fra USA (NRK)
 cefr_level: 
 definitions:
 examples:

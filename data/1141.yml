@@ -1,9 +1,8 @@
 ---
 record: 1141
-name: "Det er (veldig) stas at X"
-UD_name: ''
+name: "gul og blå"
 illustration: |
-    Det er veldig stas at de har lagt merke til meg.
+    Jeg er fremdeles gul og blå etter treningen forrige uke (NoWaC)
 cefr_level: 
 definitions:
 examples:

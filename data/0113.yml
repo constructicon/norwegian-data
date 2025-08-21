@@ -1,7 +1,6 @@
 ---
 record: 113
-name: "å stille spørsmål ved X"
-UD_name: ''
+name: "[NOEN] stille spørsmål ved [NOE]"
 illustration: |
     Den nye studien stiller spørsmål ved denne praksisen.
 cefr_level: 

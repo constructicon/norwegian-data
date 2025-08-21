@@ -1,9 +1,8 @@
 ---
 record: 371
-name: "X må passe på å V"
-UD_name: ''
+name: "[NOE/NOEN] vise seg å VERB-INF"
 illustration: |
-    Du må passe på å låse døren før du drar.
+    USAs president viste seg å være Putins beste venn.
 cefr_level: 
 definitions:
 examples:

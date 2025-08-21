@@ -1,9 +1,8 @@
 ---
 record: 847
-name: "X være misunnelig på Y / X være grønn av misunnelse på Y"
-UD_name: ''
+name: "med én gang"
 illustration: |
-    Ikke gidd å bry deg . Er bare en som er grønn av misunnelse på deg uansett (NoWaC)
+    Du merker det med en gang du er nord for Sinsenkrysset (NoWaC)
 cefr_level: 
 definitions:
 examples:

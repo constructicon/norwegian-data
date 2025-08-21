@@ -1,9 +1,8 @@
 ---
 record: 965
-name: "X høre med Y"
-UD_name: ''
+name: "gå og VERB (pågående)"
 illustration: |
-    Du kan jo høre med din veterinær (NoWaC)
+    Nå orker jeg ikke gå og ha det slik lenger (NoWaC)
 cefr_level: 
 definitions:
 examples:

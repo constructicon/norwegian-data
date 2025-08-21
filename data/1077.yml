@@ -1,9 +1,8 @@
 ---
 record: 1077
-name: "X være på banen"
-UD_name: ''
+name: "[NOE/NOEN] gi inntrykk av [NOE]"
 illustration: |
-    Vi ser at det er utfordringer i USA, hvor Kina går frem. Det at Europa er på banen da, er viktig (NRK)
+    Men det er ikke halvparten så viktig som jeg gir inntrykk av at det er (NoWaC)
 cefr_level: 
 definitions:
 examples:

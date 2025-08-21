@@ -1,9 +1,8 @@
 ---
 record: 627
-name: "X være/bli (for) drøy kost (for Y)"
-UD_name: ''
+name: "[NOEN] være ved sine fulle fem"
 illustration: |
-    Transformers T-skjorten til Jaykody ble nemlig for drøy kost for sikkerhetskontrolløren (NoWaC)
+    Er det noen som ved sine fulle fem mener at Aftenbladet ikke skulle ha brakt til torgs de faktiske opplysningene i denne saken (NoWaC)
 cefr_level: 
 definitions:
 examples:

@@ -1,9 +1,8 @@
 ---
 record: 428
-name: "X ha lyst til å V"
-UD_name: ''
+name: "[NOEN] bli kjent med [NOE/NOEN] (gjennom [NOE/NOEN])"
 illustration: |
-    Vi hadde lyst til å se denne filmen.
+    Jeg ble kjent med mannen min gjennom jobben.
 cefr_level: 
 definitions:
 examples:

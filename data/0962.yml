@@ -1,9 +1,8 @@
 ---
 record: 962
-name: "X ha kustus på Y"
-UD_name: ''
+name: "[NOEN] brenne for [NOE]"
 illustration: |
-    Instruktørene har kustus på ungene, og lærer dem å høre etter når beskjeder blir gitt (NoWaC)
+    Eg får bruke masse tid på noko eg verkeleg brenn for! (NRK)
 cefr_level: 
 definitions:
 examples:

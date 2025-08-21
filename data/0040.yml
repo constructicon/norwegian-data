@@ -1,7 +1,6 @@
 ---
 record: 40
-name: "for å V-INF"
-UD_name: ''
+name: "HELSETNING for å VERB-INF"
 illustration: |
     Jeg går på kurs for å lære norsk.
 cefr_level: A1

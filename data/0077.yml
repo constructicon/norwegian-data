@@ -1,9 +1,8 @@
 ---
 record: 77
-name: "V seg X"
-UD_name: ''
+name: "VERB seg ADJEKTIV"
 illustration: |
-    Jeg trodde jeg skulle le meg fillete.
+    Le seg fillete.
 cefr_level: B2
 definitions:
   - norwegian: |

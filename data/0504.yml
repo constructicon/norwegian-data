@@ -1,9 +1,8 @@
 ---
 record: 504
-name: "X gå mann av huse for å V"
-UD_name: ''
+name: "VERB på forhånd"
 illustration: |
-    Folk gikk mann av huse for å lære om kunstig intelligens
+    Elevene bestiller det de skal ha på forhånd
 cefr_level: 
 definitions:
 examples:

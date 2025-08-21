@@ -1,9 +1,8 @@
 ---
 record: 897
-name: "X hoppe bukk over Y"
-UD_name: ''
+name: "[NOEN] ta et steg tilbake"
 illustration: |
-    Dessuten har du glemt noe annet vesentlig . Du har hoppet bukk over heldagsskolen som dere vil ha (NoWaC)
+    Vi bør egentlig ta et steg tilbake og se på hva det er vi gjør (NRK)
 cefr_level: 
 definitions:
 examples:

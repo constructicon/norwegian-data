@@ -1,9 +1,8 @@
 ---
 record: 153
-name: "stå overfor X"
-UD_name: ''
+name: "VERB over en lav sko"
 illustration: |
-    Vi står overfor en type arbeid hvor kravene til systematisk objektivitet og kontroll er godt metodologisk sikret.
+    E-postadresser ble utvekslet over en lav sko.
 cefr_level: 
 definitions:
 examples:

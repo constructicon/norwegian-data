@@ -1,9 +1,8 @@
 ---
 record: 417
-name: "X glede seg til Y"
-UD_name: ''
+name: "i X sammenheng"
 illustration: |
-    Vi gleder oss til jul.
+    Det er uventet at en same hevder seg i norsk nasjonal sammenheng
 cefr_level: 
 definitions:
 examples:

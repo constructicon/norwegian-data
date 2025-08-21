@@ -1,9 +1,8 @@
 ---
 record: 620
-name: "X gå på skinner"
-UD_name: ''
+name: "[NOEN] sette kurs(en) (mot/ut) [STED]"
 illustration: |
-    Det er så mange dyktige folk i komiteen at det hele går på skinner uten meg, forsikrer han (NoWaC)
+    Ta med en drill og sett kursen mot Lofoten (NoWaC)
 cefr_level: 
 definitions:
 examples:

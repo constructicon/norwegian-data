@@ -1,9 +1,8 @@
 ---
 record: 720
-name: "X være god/dårlig til/på å V / Y"
-UD_name: ''
+name: "[NOEN] ha glimt i øyet"
 illustration: |
-    Jeg husker hvor god hun var til å lese for oss. / Jeg er dårlig til å tilpasse meg, men kvite småløgner er jeg god på.
+    Jeg ser for meg at han hadde glimt i øyet og kunne fortelle en vits (NoWaC)
 cefr_level: 
 definitions:
 examples:

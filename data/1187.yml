@@ -1,9 +1,8 @@
 ---
 record: 1187
-name: "[NOEN] legge ned påstand om [NOE]"
-UD_name: ''
+name: "med utgangspunkt i X"
 illustration: |
-    Aktor kan komme til å legge ned påstand om 18 års forvaring (NoWaC)
+    med utgangspunkt i data samlet inn fra juli i fjor fjor til juni i år (NoWaC)
 cefr_level: 
 definitions:
 examples:

@@ -1,9 +1,8 @@
 ---
 record: 189
-name: "ta seg av X"
-UD_name: ''
+name: "[NOEN] trappe opp/ned [NOE]"
 illustration: |
-    Jeg skal ta meg av deg.
+    Selvfølgelig må Norge trappe opp beredskap.
 cefr_level: 
 definitions:
 examples:

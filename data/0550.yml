@@ -1,9 +1,8 @@
 ---
 record: 550
-name: "X minske avstanden til Y"
-UD_name: ''
+name: "[NOEN] gjøre av [NOE/NOEN]"
 illustration: |
-    Kane har ikke gitt opp toppscorertittelen. Minsket avstanden til Salah.
+    Hvor har du gjort av bilen din?
 cefr_level: 
 definitions:
 examples:

@@ -1,7 +1,6 @@
 ---
 record: 101
-name: "ikke gjøre annet enn å V-INF"
-UD_name: ''
+name: "[NOEN] ikke gjøre annet enn å VERB-INF"
 illustration: |
     Hittil i dag har jeg ikke gjort annet enn å dusje og kle på meg.
 cefr_level: 

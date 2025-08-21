@@ -1,9 +1,8 @@
 ---
 record: 41
-name: "S V i nærheten av S"
-UD_name: ''
+name: "i nærheten av X"
 illustration: |
-    Kiosken ligger i nærheten av biblioteket.
+    Kiosken ligger i nærheten av biblioteket. En park i nærheten av sentrum (NoWaC)
 cefr_level: A2
 definitions:
   - norwegian: |

@@ -1,9 +1,8 @@
 ---
 record: 1113
-name: "[NOEN] være vitne til [NOE]"
-UD_name: ''
+name: "[NOEN] ta [NOE/NOEN] alvorlig"
 illustration: |
-    Det gir oss en pekepinn på at den gemyttlige tonen vi var vitne til, ikke bare var et spill for galleriet (NRK)
+    Ramin forsøker stadig å vise hva han kan, men blir aldri tatt alvorlig (NRK)
 cefr_level: 
 definitions:
 examples:

@@ -1,9 +1,8 @@
 ---
 record: 912
-name: "slik PRON se det"
-UD_name: ''
+name: "[NOEN] huske på [NOE]"
 illustration: |
-    Dette er saken slik vi ser det - men en sak har alltid minst to sider (NoWaC)
+    Da må du huske på at mye av teksten i veilederen er et kompromiss (NoWaC)
 cefr_level: 
 definitions:
 examples:

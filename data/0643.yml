@@ -1,9 +1,8 @@
 ---
 record: 643
-name: "X ikke skjønne bæret av Y"
-UD_name: ''
+name: "[NOE] finne sted [STED]"
 illustration: |
-    Er det bare min feil at jeg ikke skjønner bæret av denne overskriften (Facebook)
+    Møtet finner sted hos Arbeiderpartiet på Youngstorget 2 (NoWaC)
 cefr_level: 
 definitions:
 examples:

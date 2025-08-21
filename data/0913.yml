@@ -1,9 +1,8 @@
 ---
 record: 913
-name: "ifølge PRON"
-UD_name: ''
+name: "[NOEN] klare seg"
 illustration: |
-    James I måtte feire bryllup i Oslo: Ifølge ham var det heksene som hadde skylden for det (NoWaC)
+    Den skadeforfulgte spilleren klarte seg bra i sin første seriekamp for de hvite og sorte (NoWaC)
 cefr_level: 
 definitions:
 examples:

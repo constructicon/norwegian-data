@@ -1,9 +1,8 @@
 ---
 record: 386
-name: "i forhold til (ift) X"
-UD_name: ''
+name: "[NOE] være i vinden"
 illustration: |
-    Kollektivtilbudet i Bergen fungerer dårlig for mange i forhold til deres transportbehov
+    Lesing er i vinden som aldri før (NRK)
 cefr_level: 
 definitions:
 examples:

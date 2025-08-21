@@ -1,9 +1,8 @@
 ---
 record: 970
-name: "X lete etter Y"
-UD_name: ''
+name: "X-tur"
 illustration: |
-    Politiet leter etter tre maskerte menn (NRK)
+    topptur, helgetur, telttur, påsketur, løpetur
 cefr_level: 
 definitions:
 examples:

@@ -1,9 +1,8 @@
 ---
 record: 407
-name: "X ha det ADJ"
-UD_name: ''
+name: "det gå/ta SUBSTANTIV i/på X"
 illustration: |
-    Han har det ikke så greit om dagen
+    Det har gått lekk i et rør / Det tok fyr på kjøkkenet / Det går prestisje i saken / Han tok tak i det
 cefr_level: 
 definitions:
 examples:

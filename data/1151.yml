@@ -1,9 +1,8 @@
 ---
 record: 1151
-name: "[NOE] bre seg over [STED]"
-UD_name: ''
+name: "[NOEN-agent] VERB [NOE/NOEN-tema] til [NOEN-mottaker]"
 illustration: |
-    Hyttefeltene brer seg over fjell og kyst (NRK)
+    Jeg sender e-posten til deg
 cefr_level: 
 definitions:
 examples:

@@ -1,18 +1,11 @@
 ---
 record: 287
-name: "X bryte ut i Y"
-UD_name: ''
+name: "[NOEN] være på glid"
 illustration: |
-    Ordføreren brøt ut i sang foran folkehavet (NRK)
+    Han oppfattet at begge partene var på glid i dette spørsmålet.
 cefr_level: 
 definitions:
 examples:
-  - |
-       Stein bryter ut i latter (NoWaC)
-  - |
-       Elevene ved Bergen Katedralskole brøt ut i jubel og gledestårer da deres eksamen i sidemål ble avlyst (NoWaC)
-  - |
-       Salen bryter ut i applaus og det er stor stemning (NoWaC)
 morphology:
   - ~
 syntactic_type_of_construction:

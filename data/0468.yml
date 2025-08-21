@@ -1,9 +1,8 @@
 ---
 record: 468
-name: "X ha [TID] på baken som Y"
-UD_name: ''
+name: "[NOEN] ta for seg [NOE] / [NOEN] ta [NOE] for seg"
 illustration: |
-    Hun har mange år på baken som dusjvakt (NRK)
+    På konferansen skal hun ta for seg heteronormativiteten som kulturell mytologi (NoWaC) Disse paradoksene, og flere, skal vi ta for oss i de kommende kapitlene.
 cefr_level: 
 definitions:
 examples:

@@ -1,9 +1,8 @@
 ---
 record: 496
-name: "X la seg fascinere av Y"
-UD_name: ''
+name: "X ved hjelp av Y"
 illustration: |
-    Helt fra barnsben av har Gerd Frantzen latt seg fascinere av vakre knapper
+    De analyserer trafikk ved hjelp av videoopptak
 cefr_level: 
 definitions:
 examples:

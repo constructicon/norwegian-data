@@ -1,9 +1,8 @@
 ---
 record: 361
-name: "X stå for POSS regning"
-UD_name: ''
+name: "[NOE/NOEN] være i ferd med å VERB-INF"
 illustration: |
-    Jeg lar de kommentarene stå for hans regning (NRK)
+    Er Norge i ferd med å råtne på rot i vår iver etter å samle på pengene?
 cefr_level: 
 definitions:
 examples:

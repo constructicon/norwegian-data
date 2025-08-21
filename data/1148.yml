@@ -1,9 +1,8 @@
 ---
 record: 1148
-name: "[NOEN] legge seg på en linje (der/som LEDDSETNING)"
-UD_name: ''
+name: "[NOEN] stille spørsmål til [NOEN]"
 illustration: |
-    Linja Trump har lagt seg på vil være selvødeleggende (Khrono)
+    Etter foredraget ble det mulighet til å stille spørsmål til Erna (NoWaC)
 cefr_level: 
 definitions:
 examples:

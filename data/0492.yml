@@ -1,9 +1,8 @@
 ---
 record: 492
-name: "X binde seg til Y"
-UD_name: ''
+name: "[NOEN] ville [NOE/NOEN] til livs"
 illustration: |
-    Rødt gikk på trynet fordi de bandt seg til rødgrønn regjering
+    MDG vil formueskatten til livs
 cefr_level: 
 definitions:
 examples:

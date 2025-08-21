@@ -1,9 +1,8 @@
 ---
 record: 237
-name: "X ha lyst til Y"
-UD_name: ''
+name: "[NOEN] spørre etter [NOE/NOEN]"
 illustration: |
-    Jeg har så lyst til å bli mer sint enn redd.
+    Det er en ung mann som spør etter deg!
 cefr_level: 
 definitions:
 examples:

@@ -1,9 +1,8 @@
 ---
 record: 1075
-name: "X strekke seg over [OMRÅDE]"
-UD_name: ''
+name: "[NOEN] bli/være enig(e) om [NOE]"
 illustration: |
-    Samarbeidet med amerikanske forskningsmiljøer strekke seg over hele bredden til UiBs fagområder (NRK)
+    Det gjenstår noen spesifikke punkter å bli enige om (NRK)
 cefr_level: 
 definitions:
 examples:

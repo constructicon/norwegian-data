@@ -1,7 +1,6 @@
 ---
 record: 62
-name: "være (STED) og V"
-UD_name: ''
+name: "[NOEN] være ([STED]) og VERB"
 illustration: |
     Han er (ute) og handler.
 cefr_level: B2

@@ -1,9 +1,8 @@
 ---
 record: 540
-name: "X komme i fare/skade for å V"
-UD_name: ''
+name: "VERB en etter en"
 illustration: |
-    Vårt Land kom i skade for å melde at Harald Eia tror på Gud
+    En etter en vender seg vekk.
 cefr_level: 
 definitions:
 examples:

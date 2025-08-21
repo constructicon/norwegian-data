@@ -1,9 +1,8 @@
 ---
 record: 991
-name: "X vri og vende på Y"
-UD_name: ''
+name: "[NOEN] få/ta/sende [NOE] i retur"
 illustration: |
-    Uansett hvordan man vrir og vender på det er det striptease vi snakker om (NRK)
+    Jeg skrev avisartikler og fikk dem i retur (NoWaC)
 cefr_level: 
 definitions:
 examples:

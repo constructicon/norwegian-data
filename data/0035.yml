@@ -1,7 +1,6 @@
 ---
 record: 35
-name: "ANTALL (X) til"
-UD_name: ''
+name: "[TALL] (X) til"
 illustration: |
     Kan jeg få én pose til?
 cefr_level: A1

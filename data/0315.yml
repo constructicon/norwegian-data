@@ -1,9 +1,8 @@
 ---
 record: 315
-name: "X være glad i Y"
-UD_name: ''
+name: "[NOEN] få skyss (av/med [NOEN])"
 illustration: |
-    Jeg var veldig glad i mora mi.
+    Jeg fikk skyss av en klassekamerat
 cefr_level: 
 definitions:
 examples:

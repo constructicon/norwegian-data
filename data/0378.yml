@@ -1,9 +1,8 @@
 ---
 record: 378
-name: "ikke for å V (, men VP)"
-UD_name: ''
+name: "X, Y, og så videre (osv.)"
 illustration: |
-    Ikke for å stresse deg, men du har 19 minutter igjen (NoWaC)
+    Det ble gitt for mye dumme boliglån, eiendomslån, og så videre.
 cefr_level: 
 definitions:
 examples:

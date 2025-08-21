@@ -1,9 +1,8 @@
 ---
 record: 338
-name: "X slå Y som Z"
-UD_name: ''
+name: "[NOEN] mene seg VERB-PARTISIPP"
 illustration: |
-    Foreleserne slo meg som gode akademikere
+    Disse virker i ulike grad å mene seg feilrepresentert
 cefr_level: 
 definitions:
 examples:

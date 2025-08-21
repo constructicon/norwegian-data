@@ -1,9 +1,8 @@
 ---
 record: 341
-name: "X ta seg selv i å V"
-UD_name: ''
+name: "X som følge av Y"
 illustration: |
-    Tidvis tar jeg meg selv i å undre hva Sokrates hadde sagt
+    Som følge av dette, gikk ættesamfunnet i oppløsning
 cefr_level: 
 definitions:
 examples:

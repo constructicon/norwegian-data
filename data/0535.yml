@@ -1,9 +1,8 @@
 ---
 record: 535
-name: "i tilfelle"
-UD_name: ''
+name: "[NOE/NOEN] stå i fare for [NOE]"
 illustration: |
-    Bare i tilfelle denne ikke er delt her inne allerede...
+    Han står i fare for å bli utelukket fra gruppen.
 cefr_level: 
 definitions:
 examples:

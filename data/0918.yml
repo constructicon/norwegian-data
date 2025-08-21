@@ -1,9 +1,8 @@
 ---
 record: 918
-name: "X komme/slippe gjennom nåløyet (til Y)"
-UD_name: ''
+name: "[NOE] skurre med [NOE/NOEN]"
 illustration: |
-    Vi sier artikkelen er din, men den har gått gjennom det meget smale redaksjonelle nåløyet til resten av styret (NoWaC)
+    Det skurrer for mye med virkeligheten du har hørt fra massemedias selvsensur gjennom fem lange år (NoWaC)
 cefr_level: 
 definitions:
 examples:

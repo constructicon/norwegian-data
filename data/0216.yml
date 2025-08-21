@@ -1,9 +1,8 @@
 ---
 record: 216
-name: "være (så) ADJ"
-UD_name: ''
+name: "[NOE/NOEN] være ADJEKTIV"
 illustration: |
-    Du er så dum!
+    Katten er så lat. Du er så dum.
 cefr_level: 
 definitions:
 examples:

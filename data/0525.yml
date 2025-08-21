@@ -1,9 +1,8 @@
 ---
 record: 525
-name: "det gå over styr for X"
-UD_name: ''
+name: "[NOEN] være nødt til å VERB-INF"
 illustration: |
-    Det gikk over styr for befalet i 20-årene
+    Jeg var nødt til å gjøre noe med livet mitt
 cefr_level: 
 definitions:
 examples:

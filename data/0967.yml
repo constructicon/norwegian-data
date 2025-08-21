@@ -1,9 +1,8 @@
 ---
 record: 967
-name: "X høre hjemme [STED]"
-UD_name: ''
+name: "holde på å VERB-INF (pågående handling)"
 illustration: |
-    Jeg mener derfor bestemt at krangling hører hjemme på kammerset (NoWaC)
+    Mozilla melder at de holder på å lage en Firefox-variant for mobiltelefoner (NoWaC)
 cefr_level: 
 definitions:
 examples:

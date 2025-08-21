@@ -1,9 +1,8 @@
 ---
 record: 223
-name: "bitte lite X"
-UD_name: ''
+name: "[NOEN] ha vondt i [KROPPSDEL]"
 illustration: |
-    
+    Jeg har vondt i hodet. Jeg har vondt i halsen. Har du vondt i ryggen?
 cefr_level: 
 definitions:
 examples:

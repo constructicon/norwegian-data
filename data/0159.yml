@@ -1,9 +1,8 @@
 ---
 record: 159
-name: "X (først) gå opp for Y"
-UD_name: ''
+name: "VERB seg i hjel"
 illustration: |
-    Et tap som først gikk opp for meg da jeg kom tilbake og så hva jeg hadde forlatt.
+    Flere drikker seg i hjel enn tidligere.
 cefr_level: 
 definitions:
 examples:

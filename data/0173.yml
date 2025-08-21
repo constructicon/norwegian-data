@@ -1,12 +1,15 @@
 ---
 record: 173
-name: "fort gjort (å V)"
-UD_name: ''
+name: "[NOEN] late som [NOE]"
 illustration: |
-    Flere av oss har vel erfart at det er fort gjort å trykke på feil tast (NoWaC)
+    Hun later som ingenting.
 cefr_level: 
 definitions:
 examples:
+  - |
+       De gikk inn i 54 valgboder og lot som de var rasister (NoWaC)
+  - |
+       DN kutter ut professoren som lot som han var reklamemann (NoWaC)
 morphology:
   - ~
 syntactic_type_of_construction:

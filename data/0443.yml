@@ -1,9 +1,8 @@
 ---
 record: 443
-name: "komparativ og komparativ"
-UD_name: ''
+name: "eller ikke"
 illustration: |
-    Flere og flere vil ha elektrisk bil. (Nøkler til Norge B2)
+    Er du enig eller ikke? Gi beskjed om du kommer eller ikke.
 cefr_level: 
 definitions:
 examples:

@@ -1,9 +1,8 @@
 ---
 record: 784
-name: "X være på vei"
-UD_name: ''
+name: "ikke X heller"
 illustration: |
-    Litt forsinket, men jeg er på vei!
+    ikke jeg heller, ikke her heller, ikke kylling heller
 cefr_level: 
 definitions:
 examples:

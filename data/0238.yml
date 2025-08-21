@@ -1,9 +1,8 @@
 ---
 record: 238
-name: "X spørre etter Y"
-UD_name: ''
+name: "[NOE/NOEN] være (ikke) til å VERB-INF"
 illustration: |
-    Det er en ung mann som spør etter deg!
+    Han er ikke til å stole på. Det er ikke til å tro at...
 cefr_level: 
 definitions:
 examples:

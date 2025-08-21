@@ -1,9 +1,8 @@
 ---
 record: 1028
-name: "XP-Interrogative, om ikke XP"
-UD_name: ''
+name: "en smak av X"
 illustration: |
-    Fo hva er vel tikd, om ikke livet?
+    Det blir ei veldig fin og vårleg veke som vil gi oss ein smak av sommar (NRK)
 cefr_level: 
 definitions:
 examples:

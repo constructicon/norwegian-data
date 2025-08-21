@@ -1,9 +1,8 @@
 ---
 record: 780
-name: "X kle på seg"
-UD_name: ''
+name: "om [TALL] [TID]"
 illustration: |
-    Det er en menneskerett å kunne få stå opp om morgenen å kle på seg de klærne man ønsker (NoWaC)
+    om tre uker
 cefr_level: 
 definitions:
 examples:

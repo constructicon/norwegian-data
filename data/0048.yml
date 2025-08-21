@@ -1,9 +1,8 @@
 ---
 record: 48
-name: "V-s ved å V-INF / at Cl"
-UD_name: ''
+name: "VERB-s ved å VERB-INF / VERB-s ved at LEDDSETNING"
 illustration: |
-    Dette gjøres ved å klikke deg inn her / ved at du klikker deg inn her
+    Dette gjøres ved å klikke deg inn her / ved at du klikker deg inn her.
 cefr_level: A2
 definitions:
   - norwegian: |

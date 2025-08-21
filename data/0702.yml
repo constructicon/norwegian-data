@@ -1,9 +1,8 @@
 ---
 record: 702
-name: "NP-collective være/bli ADJ-plural"
-UD_name: ''
+name: "[NOEN] slå fast [NOE]"
 illustration: |
-    Rosenborg var gode i fjor.
+    Bare for å slå det fast med en gang
 cefr_level: 
 definitions:
 examples:

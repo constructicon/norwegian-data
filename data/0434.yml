@@ -1,9 +1,8 @@
 ---
 record: 434
-name: "X se seg mett på Y"
-UD_name: ''
+name: "[NOEN] legge vekt på å VERB-INF"
 illustration: |
-    Det var ikke mulig å se seg mett på denne koften.
+    Jeg legger vekt på å bidra til et positivt arbeidsmiljø.
 cefr_level: 
 definitions:
 examples:

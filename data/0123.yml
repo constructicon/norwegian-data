@@ -1,7 +1,6 @@
 ---
 record: 123
-name: "X søke (gjennom Y) etter Z"
-UD_name: ''
+name: "[NOEN] søke (gjennom [NOE]) etter [NOE/NOEN]"
 illustration: |
     Det føderale forskningsrådet søker gjennom forskningsaktiviteter, prosjekter og søknader etter ord og språk som kan bryte med presidentordrene.
 cefr_level: 

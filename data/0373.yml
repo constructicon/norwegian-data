@@ -1,9 +1,8 @@
 ---
 record: 373
-name: "X utsette Y for Z"
-UD_name: ''
+name: "hva skje med å VERB-INF / hva skje med at LEDDSETNING"
 illustration: |
-    Det er ikke riktig å utsette noen for fare.
+    Hva skjedde med å hylle det brune gullet, ølet? (NRK)
 cefr_level: 
 definitions:
 examples:

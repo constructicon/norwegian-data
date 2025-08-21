@@ -1,9 +1,8 @@
 ---
 record: 781
-name: "nærmere bestemt"
-UD_name: ''
+name: "på [TID]"
 illustration: |
-    Har vært i melhus og er nå kommet til sverige, nærmere bestemt Østersund (NoWaC)
+    på mandag
 cefr_level: 
 definitions:
 examples:

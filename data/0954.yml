@@ -1,9 +1,8 @@
 ---
 record: 954
-name: "X være til Y POSS glede"
-UD_name: ''
+name: "[NOEN] dysse ned [NOE]"
 illustration: |
-    Dette er til veldig mange sin glede (NRK)
+    Sjefen hans kjører en annen taktikk og ønsker å dysse ned hendelsen (NRK)
 cefr_level: 
 definitions:
 examples:

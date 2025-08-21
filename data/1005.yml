@@ -1,9 +1,8 @@
 ---
 record: 1005
-name: "X vegre seg for Y / X vegre seg for å V"
-UD_name: ''
+name: "[NOE/NOEN] vekke SUBSTANTIV"
 illustration: |
-    Jeg kan forstå at kor­dirigenter vegrer seg for å programmere et verk hvor koret bruker mest tid på å høre på pianisten (NRK)
+    vekke oppsikt/oppmerksomhet/interesse/reaksjoner/bekymring/debatt/følelser/harme/mistanke
 cefr_level: 
 definitions:
 examples:

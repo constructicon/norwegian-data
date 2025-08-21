@@ -1,9 +1,8 @@
 ---
 record: 549
-name: "X er verdt Y"
-UD_name: ''
+name: "[NOEN] stå (inne) for [NOE]"
 illustration: |
-    Denne boka er verdt pengene
+    Halvor står ikke lenger inne for alt han skrev
 cefr_level: 
 definitions:
 examples:
