@@ -1,12 +1,10 @@
 ---
 record: 260
-name: "[NOEN] bruke å VERB-INF"
+name: "en av de Xeste Y i Z"
 illustration: |
-    Vi brukte å spille kort der.
+    Tromsø er en av de største byene i Norge.
 cefr_level: 
 definitions:
-  - norwegian: |
-       Konstruksjonen brukes for å beskrive at noen er involvert i, engasjert i, eller holder på med en bestemt aktivitet eller et bestemt område. Det kan referere til både hobbyer, arbeid, eller andre typer aktiviteter.
 examples:
 morphology:
   - ~

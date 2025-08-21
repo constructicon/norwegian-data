@@ -1,8 +1,8 @@
 ---
 record: 230
-name: "[NOEN] bli/være med (på [NOE])"
+name: "X gå med på Y"
 illustration: |
-    Hun skal være med.
+    Han går med på planen.
 cefr_level: 
 definitions:
 examples:

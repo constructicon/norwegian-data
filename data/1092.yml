@@ -1,8 +1,8 @@
 ---
 record: 1092
-name: "hva være [NOE] for no(e)?"
+name: "det bli [TALL] kroner (til sammen)"
 illustration: |
-    Hva er pinse for noe? Hva er det for noe?
+    -Hvor mye blir det til sammen? -Det blir 200 kr.
 cefr_level: 
 definitions:
 examples:

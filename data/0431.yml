@@ -1,8 +1,8 @@
 ---
 record: 431
-name: "[NOEN] ha råd til [NOE]"
+name: "X takke nei/ja til Y"
 illustration: |
-    Vi har ikke råd til ny bil nå.
+    Jeg skal takke nei til denne jobben.
 cefr_level: 
 definitions:
 examples:

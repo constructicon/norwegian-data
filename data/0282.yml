@@ -1,17 +1,11 @@
 ---
 record: 282
-name: "ligge VERB-PARTISIPP"
+name: "X (gå) i tenkeboksen (om Y)"
 illustration: |
-    Omstridt rapport lå ulest i to måneder (NRK)
+    Fortsatt i tenkeboksen om Oljefondet og infrastruktur (E24)
 cefr_level: 
 definitions:
 examples:
-  - |
-       Jeg skjønner ikke at folk tør å ha en oljetank liggende nedgravd i over 20 år (NoWaC)
-  - |
-       Eggene befruktes før de får ligge beskyttet i posen under hannens omsorg (NoWaC)
-  - |
-       Daniel ante at helligdommen i Jerusalem ville ligge ødelagt i lang tid (NoWaC)
 morphology:
   - ~
 syntactic_type_of_construction:

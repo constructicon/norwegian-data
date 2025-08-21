@@ -1,6 +1,6 @@
 ---
 record: 2
-name: "[NOEN] gå på [AKTIVITET]"
+name: "gå på X"
 illustration: |
     Jeg går på fotball.
 cefr_level: A1

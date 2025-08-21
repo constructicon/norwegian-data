@@ -1,10 +1,12 @@
 ---
 record: 262
-name: "like/rett før LEDDSETNING"
+name: "V i utide"
 illustration: |
-    Like før vi nådde frem til målet, kom det kjørende en turistbuss med utenlandske skilter.
+    Frans blir syk i utide
 cefr_level: 
 definitions:
+  - norwegian: |
+       Konstruksjonen brukes for å beskrive at en handling (V) skjer på et tidspunkt som passer dårlig.
 examples:
 morphology:
   - ~

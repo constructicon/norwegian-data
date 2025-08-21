@@ -1,8 +1,8 @@
 ---
 record: 458
-name: "være [MENGDE] X igjen / være [MENGDE] igjen av X"
+name: "eller ikke"
 illustration: |
-    I 2022 var det bare noen få breklatter igjen (NRK)
+    Er du enig eller ikke? Gi beskjed om du kommer eller ikke.
 cefr_level: 
 definitions:
 examples:

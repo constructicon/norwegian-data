@@ -1,8 +1,8 @@
 ---
 record: 209
-name: "like ADJEKTIV som X"
+name: "like ADJ som"
 illustration: |
-    Hun er like høy som meg. Han er like snill som han er grei.
+    Hun er like høy som meg.
 cefr_level: 
 definitions:
 examples:

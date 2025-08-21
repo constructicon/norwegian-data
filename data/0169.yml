@@ -1,11 +1,15 @@
 ---
 record: 169
-name: "[NOEN] bli/være i stand til å VERB-INF"
+name: "ADJ til beins"
 illustration: |
-    Hun skal være i stand til å holde foredraget sitt i morgen.
+    Hun er dårlig til beins.
 cefr_level: 
 definitions:
 examples:
+  - |
+       Han er lett til beins.
+  - |
+       Ungdom som er raske til beins.
 morphology:
   - ~
 syntactic_type_of_construction:

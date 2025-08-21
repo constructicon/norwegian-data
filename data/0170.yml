@@ -1,8 +1,8 @@
 ---
 record: 170
-name: "ikke ha VERB-PARTISIPP på [TALL] [TID]"
+name: "(ikke) ha peiling"
 illustration: |
-    Han har ikke jobbet på tre år.
+    Jeg har ikke peiling.
 cefr_level: 
 definitions:
 examples:

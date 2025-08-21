@@ -1,8 +1,8 @@
 ---
 record: 441
-name: "[NOEN] være født i [ÅRSTALL]"
+name: "bli kjent med X gjennom Y"
 illustration: |
-    Han er født i 1997. (Ny i Norge A1)
+    Jeg ble kjent med mannen min gjennom jobben.
 cefr_level: 
 definitions:
 examples:

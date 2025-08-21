@@ -1,11 +1,19 @@
 ---
 record: 261
-name: "[NOE/NOEN] være på sitt SUPERLATIV"
+name: "drive med S"
 illustration: |
-    Byen var på sitt lyseste, grønneste.
+    Har drevet med hest så lenge jeg kan huske (NoWaC).
 cefr_level: 
 definitions:
+  - norwegian: |
+       Konstruksjonen brukes for å beskrive at noen er involvert i, engasjert i, eller holder på med en bestemt aktivitet eller et bestemt område. Det kan referere til både hobbyer, arbeid, eller andre typer aktiviteter.
 examples:
+  - |
+       «Harry Potter og føniksordenen» ble stanset av politiet etter at at man mistenkte at noen drev med piratkopiering (NoWaC)
+  - |
+       De skal tross alt drive med lokalpolitikk, og ikke ta stilling til det som foregår utenfor landets grenser. (NoWaC)
+  - |
+       Det påpekes ofte at renhold er veldig viktig når man driver med hjemmebrygging.
 morphology:
   - ~
 syntactic_type_of_construction:

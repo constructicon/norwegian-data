@@ -1,8 +1,8 @@
 ---
 record: 1220
-name: "[NOEN] ha mulighet til å VERB-INF"
+name: "VERB-kne"
 illustration: |
-    Jeg har ikke mulighet til å gjøre det i dag
+    våkne/mørkne/blekne/mørkne/rakne/kvikne/tykne/slukne/størkne/friskne/harskne/mykne
 cefr_level: 
 definitions:
 examples:
