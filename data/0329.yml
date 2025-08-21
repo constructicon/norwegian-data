@@ -1,8 +1,8 @@
 ---
 record: 329
-name: "takk som spør"
+name: "[NOEN] gi X i [NOE]"
 illustration: |
-    -Hans Zimmer har lagd Star Wars-musikken? -Nei! Det er John Williams, takk som spør.
+    Mange har gitt blaffen i å søke.
 cefr_level: 
 definitions:
 examples:

@@ -1,12 +1,10 @@
 ---
 record: 188
-name: "det bli ikke noe av X"
+name: "[NOEN] ta seg av [NOE/NOEN]"
 illustration: |
-    Det ble ikke noe av prosjektet.
+    Jeg skal ta meg av deg.
 cefr_level: 
 definitions:
-  - norwegian: |
-       Konstruksjonen uttrykker at X mislykkes eller ikke går som planlagt.
 examples:
 morphology:
   - ~

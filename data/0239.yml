@@ -1,11 +1,17 @@
 ---
 record: 239
-name: "X er ikke til å V"
+name: "[TID]-bestemt ut"
 illustration: |
-    Han er ikke til å stole på. Det er ikke til å tro at...
+    Han skal sitte i fengsel livet ut.
 cefr_level: 
 definitions:
 examples:
+  - |
+       Tilbudet varer hele sommeren ut. (Facebook)
+  - |
+       Gi bort noe som varer hele året ut. (Facebook)
+  - |
+       Da ville jeg slite med å holde trøkket oppe hele karrieren ut. (NRK)
 morphology:
   - ~
 syntactic_type_of_construction:

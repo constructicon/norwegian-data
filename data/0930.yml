@@ -1,8 +1,8 @@
 ---
 record: 930
-name: "X gå inn gjennom det ene øret og ut av det andre"
+name: "[TALL] av [TALL]"
 illustration: |
-    Alt foreleseren sa, gikk inn gjennom det ene øret og ut av det andre.
+    en av fire, ni av ti
 cefr_level: 
 definitions:
 examples:

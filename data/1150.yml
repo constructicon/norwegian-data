@@ -1,8 +1,8 @@
 ---
 record: 1150
-name: "[NOE] følge med [NOE]"
+name: "[NOEN-agent] VERB [NOEN-mottaker] [NOE/NOEN-tema]"
 illustration: |
-    Med dagens krav til komfort, følger vei, vann og strøm med (NRK)
+    Jeg sender deg e-posten
 cefr_level: 
 definitions:
 examples:

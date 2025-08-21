@@ -1,8 +1,8 @@
 ---
 record: 514
-name: "X ha Y til overs for Z"
+name: "[TALL] om gangen"
 illustration: |
-    Han hadde ikke mye til overs for henne
+    Leser dere én bok om gangen, eller flere parallelt?
 cefr_level: 
 definitions:
 examples:

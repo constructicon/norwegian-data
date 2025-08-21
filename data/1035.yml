@@ -1,8 +1,8 @@
 ---
 record: 1035
-name: "X trekke til seg Y / X tiltrekke seg Y"
+name: "det bli [TALL] kroner"
 illustration: |
-    Han har også tatt til orde for at kirken må arbeide for å trekke til seg nye troende i mindre religiøse områder som Europa (NRK)
+    -Hvor mye blir det til sammen? -Det blir 200 kr.
 cefr_level: 
 definitions:
 examples:

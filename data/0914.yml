@@ -1,8 +1,8 @@
 ---
 record: 914
-name: "X ha greie på Y"
+name: "X-veis"
 illustration: |
-    Dette skal jo Berger ha betydelig mer greie på enn meg (NoWaC)
+    midtveis, halvveis, underveis, toveis, sideveis, langveis
 cefr_level: 
 definitions:
 examples:

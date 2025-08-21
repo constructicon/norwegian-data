@@ -1,8 +1,8 @@
 ---
 record: 66
-name: "possessiv (ADJ) S"
+name: "POSSESSIV (ADJEKTIV) SUBSTANTIV"
 illustration: |
-    Din (jævla) idiot!
+    Din jævla idiot!
 cefr_level: B1
 definitions:
   - norwegian: |
@@ -41,4 +41,4 @@ references:
 semantic_types:
 family:
   - |
-    ""
+    "Olaf Mikkelsen, Anna Endresen, Tore Nesset"

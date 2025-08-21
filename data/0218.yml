@@ -1,8 +1,8 @@
 ---
 record: 218
-name: "X passer (for Y) / det passer (for Y) om/at X"
+name: "[NOE] passe for [NOEN]"
 illustration: |
-    Passer det (for deg) om jeg kommer innom? Ja, det passer fint (for meg)!
+    Passer buksa? Ja, den passer fint.
 cefr_level: 
 definitions:
 examples:

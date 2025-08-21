@@ -1,8 +1,8 @@
 ---
 record: 86
-name: "om S-bestemt"
+name: "om [TID]-bestemt"
 illustration: |
-    om morgenen, om kvelden, om dagen, om sommeren
+    om morgenen, om kvelden, om dagen
 cefr_level: 
 definitions:
 examples:

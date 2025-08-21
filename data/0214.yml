@@ -1,8 +1,8 @@
 ---
 record: 214
-name: "X koker over / det koker over for X"
+name: "det koke over for [NOEN]"
 illustration: |
-    Jeg koker over.
+    Det koker over for meg.
 cefr_level: 
 definitions:
 examples:

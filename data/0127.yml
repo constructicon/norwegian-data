@@ -1,8 +1,8 @@
 ---
 record: 127
-name: "være/bli overrasket over Y"
+name: "[NOEN] bli/være overrasket over [NOE/NOEN]"
 illustration: |
-    Trump var overrasket over å bli president
+    Trump var overrasket over å bli president.
 cefr_level: 
 definitions:
 examples:
@@ -33,4 +33,4 @@ references:
 semantic_types:
 family:
   - |
-    ""
+    "? over VERB-INF"

@@ -1,11 +1,15 @@
 ---
 record: 167
-name: "stå på (i STED)"
+name: "[NOEN] være dårlig til be(i)ns"
 illustration: |
-    De snakket høyt og ivrig om hva som sto på i bygda.
+    Hun er dårlig til beins.
 cefr_level: 
 definitions:
 examples:
+  - |
+       Han er lett til beins.
+  - |
+       Ungdom som er raske til beins.
 morphology:
   - ~
 syntactic_type_of_construction:

@@ -1,8 +1,8 @@
 ---
 record: 1001
-name: "fra POSS side"
+name: "[NOEN] være på stedet"
 illustration: |
-    Skal vi lykkes, så må det til helt nye grep fra statens side (NRK)
+    Nyhetsbyrået Ria melder også om at nødetatene er på stedet (NRK)
 cefr_level: 
 definitions:
 examples:
